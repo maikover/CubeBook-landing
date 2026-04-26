@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: #FFFDF5;
+    --foreground: #000000;
+    --muted: #C4B5FD;
+    --accent: #FF6B6B;
+    --secondary: #FFD93D;
+    --white: #FFFFFF;
+  }
+
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+    font-family: 'Space Grotesk', sans-serif;
+    font-feature-settings: "rlig" 1, "calt" 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  /* Neo-brutalism button styles */
+  .btn-primary {
+    @apply bg-neo-accent text-neo-fg font-bold text-sm uppercase tracking-widest border-4 border-neo-fg shadow-[4px_4px_0px_0px_#000000] hover:bg-[rgba(255,107,107,0.9)] active:translate-x-[2px] active:translate-y-[2px] active:shadow-none duration-100;
+  }
+
+  .btn-secondary {
+    @apply bg-neo-secondary text-neo-fg font-bold text-sm uppercase tracking-widest border-4 border-neo-fg shadow-[4px_4px_0px_0px_#000000] hover:bg-[rgba(255,217,61,0.9)] active:translate-x-[2px] active:translate-y-[2px] active:shadow-none duration-100;
+  }
+
+  .btn-outline {
+    @apply bg-white text-neo-fg font-bold text-sm uppercase tracking-widest border-4 border-neo-fg shadow-[4px_4px_0px_0px_#000000] hover:bg-[rgba(255,255,255,0.9)] active:translate-x-[2px] active:translate-y-[2px] active:shadow-none duration-100;
+  }
+
+  .btn-ghost {
+    @apply bg-transparent text-neo-fg font-bold text-sm uppercase tracking-widest border-2 border-transparent hover:border-neo-fg hover:bg-[rgba(0,0,0,0.05)] active:translate-x-[1px] active:translate-y-[1px] active:shadow-none duration-100;
+  }
+
+  /* Neo-brutalism card/container styles */
+  .card {
+    @apply bg-white border-4 border-neo-fg shadow-[8px_8px_0px_0px_#000000] hover:-translate-y-1 hover:shadow-[10px_10px_0px_0px_#000000] duration-200;
+  }
+
+  .card-hover-lift {
+    @apply bg-white border-4 border-neo-fg shadow-[8px_8px_0px_0px_#000000] hover:-translate-y-2 hover:shadow-[12px_12px_0px_0px_#000000] duration-200;
+  }
+
+  .card-header {
+    @apply bg-neo-muted/20 border-b-4 border-neo-fg px-6 py-4;
+  }
+
+  /* Neo-brutalism input styles */
+  .input-field {
+    @apply bg-white border-4 border-neo-fg font-bold text-lg placeholder:text-neo-fg/40 focus-visible:bg-neo-secondary focus-visible:shadow-[4px_4px_0px_0px_#000000] focus-visible:outline-none focus-visible:ring-0 duration-100;
+  }
+
+  .input-field-lg {
+    @apply bg-white border-4 border-neo-fg font-bold text-xl placeholder:text-neo-fg/40 focus-visible:bg-neo-secondary focus-visible:shadow-[4px_4px_0px_0px_#000000] focus-visible:outline-none focus-visible:ring-0 duration-100 h-14;
+  }
+
+  /* Neo-brutalism badge styles */
+  .badge {
+    @apply rounded-full bg-neo-accent text-neo-fg font-black text-xs uppercase tracking-widest border-4 border-neo-fg shadow-[2px_2px_0px_0px_#000000] px-3 py-1;
+  }
+
+  .badge-secondary {
+    @apply rounded-full bg-neo-secondary text-neo-fg font-black text-xs uppercase tracking-widest border-4 border-neo-fg shadow-[2px_2px_0px_0px_#000000] px-3 py-1;
+  }
+
+  .badge-outline {
+    @apply rounded-full bg-white text-neo-fg font-black text-xs uppercase tracking-widest border-4 border-neo-fg shadow-[2px_2px_0px_0px_#000000] px-3 py-1;
+  }
+
+  /* Neo-brutalism text styles */
+  .text-display {
+    @apply font-black text-8xl uppercase tracking-tighter leading-none;
+  }
+
+  .text-display-sm {
+    @apply font-black text-6xl uppercase tracking-tighter leading-none;
+  }
+
+  .text-section-title {
+    @apply font-black text-4xl uppercase tracking-tight leading-snug;
+  }
+
+  .text-body-bold {
+    @apply font-bold text-lg leading-snug uppercase;
+  }
+
+  .text-body {
+    @apply font-bold text-base leading-relaxed;
+  }
+
+  .text-label {
+    @apply font-medium text-sm uppercase tracking-widest;
+  }
+
+  /* Text stroke effect for display typography */
+  .text-stroke {
+    @apply -webkit-text-stroke: 2px black;
+    color: transparent;
+  }
+
+  /* Neo-brutalism rotation utilities */
+  .rotate-1 {
+    @apply rotate-[1deg];
+  }
+
+  .rotate-2 {
+    @apply rotate-[-2deg];
+  }
+
+  .rotate-3 {
+    @apply rotate-[3deg];
+  }
+
+  .rotate-4 {
+    @apply rotate-[-3deg];
+  }
+
+  /* Neo-brutalism shadow utilities */
+  .shadow-sm {
+    @apply shadow-[4px_4px_0px_0px_#000000];
+  }
+
+  .shadow-md {
+    @apply shadow-[8px_8px_0px_0px_#000000];
+  }
+
+  .shadow-lg {
+    @apply shadow-[12px_12px_0px_0px_#000000];
+  }
+
+  .shadow-xl {
+    @apply shadow-[16px_16px_0px_0px_#000000];
+  }
+
+  /* Neo-brutalism background patterns */
+  .bg-halftone {
+    @apply bg-[radial-gradient(#000_1.5px,_transparent_1.5px)] bg-[size:20px_20px];
+  }
+
+  .bg-grid {
+    @apply bg-[size:40px_40px] bg-[linear-gradient(to_right,rgba(0,0,0,0.1)_1px,transparent_1px)] bg-[linear-gradient(to_bottom,rgba(0,0,0,0.1)_1px,transparent_1px)];
+  }
+
+  .bg-noise {
+    @apply bg-[url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'%2F%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E")];
+  }
+}
