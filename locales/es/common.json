@@ -38,6 +38,8 @@
     "rights": "Todos los derechos reservados",
     "privacy": "Política de Privacidad",
     "terms": "Términos de Uso",
+    "legal": "Legal",
+    "contact": "Contacto",
     "description": "Mejorando tu experiencia de lectura con tecnología de IA de vanguardia"
   },
   "buttons": {
@@ -53,5 +55,25 @@
   "meta": {
     "title": "Cube Book - Lee Más Rápido con IA",
     "description": "Transforma tu experiencia de lectura con Cube Book. Reconocimiento de voz con IA, construcción de vocabulario y comparación entre idiomas."
+  },
+  "showcase": {
+    "title": "DENTRO DE CUBE BOOK",
+    "subtitle": "Advertencia: Nuestra interfaz es altamente adictiva.",
+    "preview": "VISTA PREVIA",
+    "library": {
+      "title": "TU BIBLIOTECA, SIN ATADURAS",
+      "description": "Organiza todo tu universo de lectura. Con nuestra estantería ultra-visual, rastrear lo que lees, lo que terminaste y lo que quieres leer es tan satisfactorio como pasar una página física.",
+      "badge": "INTERFAZ INCREÍBLE"
+    },
+    "aiGuru": {
+      "title": "TU GURÚ PERSONAL DE IA",
+      "description": "¿Atascado en una rutina de lectura? Nuestra IA analiza tu historial y sugiere libros que encajan perfectamente con tu estilo. Responde preguntas sobre la trama, personajes y temas profundos.",
+      "badge": "IA INTELIGENTE"
+    },
+    "stats": {
+      "title": "PRESUME TUS ESTADÍSTICAS",
+      "description": "Números que te hacen sentir orgulloso. Rastrea tus rachas, minutos diarios y porcentajes de completado en un panel absolutamente hermoso y sin rodeos.",
+      "badge": "EXPERTO EN DATOS"
+    }
   }
 }

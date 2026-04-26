@@ -30,7 +30,9 @@ export default function Footer() {
 
           {/* Legal */}
           <div className="md:col-span-3 space-y-6">
-            <h3 className="font-space font-black text-3xl uppercase tracking-tighter text-black bg-white border-4 border-black px-3 py-1 inline-block -rotate-2 shadow-neo-sm">Legal</h3>
+            <h3 className="font-space font-black text-3xl uppercase tracking-tighter text-black bg-white border-4 border-black px-3 py-1 inline-block -rotate-2 shadow-neo-sm">
+              {t('footer.legal')}
+            </h3>
             <ul className="space-y-4">
               <li>
                 <Link
@@ -53,7 +55,9 @@ export default function Footer() {
 
            {/* Contact */}
            <div className="md:col-span-4 space-y-6">
-             <h3 className="font-space font-black text-3xl uppercase tracking-tighter text-black bg-white border-4 border-black px-3 py-1 inline-block rotate-1 shadow-neo-sm">Contact</h3>
+             <h3 className="font-space font-black text-3xl uppercase tracking-tighter text-black bg-white border-4 border-black px-3 py-1 inline-block rotate-1 shadow-neo-sm">
+               {t('footer.contact')}
+             </h3>
              <ul className="space-y-4">
                <li>
                  <a href="mailto:contacto@arcaico.com.co" className="inline-block text-black font-black uppercase tracking-widest border-4 border-black bg-white shadow-neo-sm hover:bg-neo-muted hover:-translate-y-1 active:translate-x-1 active:translate-y-1 active:shadow-none transition-all duration-100 py-3 px-6 rotate-1">

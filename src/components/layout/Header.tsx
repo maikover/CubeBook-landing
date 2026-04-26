@@ -35,7 +35,7 @@ export default function Header({ locale }: { locale: string }) {
                className="w-10 h-10 object-contain drop-shadow-[2px_2px_0_rgba(0,0,0,1)]"
              />
              <span className="font-space font-black text-2xl uppercase tracking-tighter text-black">
-               Cube Book
+               {t('appName')}
              </span>
            </Link>
 

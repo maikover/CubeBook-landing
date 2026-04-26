@@ -9,28 +9,28 @@ export default function ShowcaseSection() {
   const features = [
     {
       id: 'library',
-      title: 'YOUR LIBRARY, UNCHAINED',
-      description: 'Organize your entire reading universe. With our ultra-visual bookshelf, tracking what you read, what you finished, and what you want to read is as satisfying as turning a physical page.',
+      title: t('showcase.library.title'),
+      description: t('showcase.library.description'),
       imageSrc: '/images/screenshots/Screenshot_20260426_132333.png',
-      badge: 'BEAUTIFUL UI',
+      badge: t('showcase.library.badge'),
       color: 'bg-neo-accent',
       rotation: 'rotate-1'
     },
     {
       id: 'ai-chat',
-      title: 'YOUR PERSONAL AI GURU',
-      description: 'Stuck in a reading rut? Our AI analyzes your reading history and suggests books that perfectly match your vibe. It even answers questions about the plot, characters, and deeply hidden themes.',
-      imageSrc: '/images/screenshots/Screenshot_20260426_132716.png', // Assuming 132716 is the chat
-      badge: 'SMART AI',
+      title: t('showcase.aiGuru.title'),
+      description: t('showcase.aiGuru.description'),
+      imageSrc: '/images/screenshots/Screenshot_20260426_132716.png',
+      badge: t('showcase.aiGuru.badge'),
       color: 'bg-neo-secondary',
       rotation: '-rotate-2'
     },
     {
       id: 'stats',
-      title: 'FLEX YOUR STATS',
-      description: 'Numbers that make you proud. Track your reading streaks, daily minutes, and completion percentages in an absolutely gorgeous, no-nonsense dashboard.',
-      imageSrc: '/images/screenshots/Screenshot_20260426_132610.png', // Assuming 132610 is stats
-      badge: 'DATA NERD',
+      title: t('showcase.stats.title'),
+      description: t('showcase.stats.description'),
+      imageSrc: '/images/screenshots/Screenshot_20260426_132610.png',
+      badge: t('showcase.stats.badge'),
       color: 'bg-neo-muted',
       rotation: 'rotate-2'
     }
@@ -46,13 +46,13 @@ export default function ShowcaseSection() {
         {/* Section Header */}
         <div className="text-center mb-24 relative">
            <div className="absolute -top-10 left-1/2 -translate-x-1/2 text-[10rem] font-black text-black opacity-5 pointer-events-none whitespace-nowrap">
-              APP PREVIEW
+              {t('showcase.preview')}
            </div>
            <h2 className="text-display-sm md:text-display text-black mb-6 inline-block bg-white border-8 border-black px-8 py-4 shadow-neo-xl -rotate-1">
-             INSIDE <span className="text-neo-accent">CUBE BOOK</span>
+             {t('showcase.title').split(' ')[0]} <span className="text-neo-accent">{t('showcase.title').split(' ').slice(1).join(' ')}</span>
            </h2>
            <p className="text-xl md:text-2xl font-bold bg-neo-secondary border-4 border-black inline-block p-4 shadow-neo-sm rotate-1 mt-4 max-w-2xl">
-             Warning: Our interface is highly addictive.
+             {t('showcase.subtitle')}
            </p>
         </div>
 
