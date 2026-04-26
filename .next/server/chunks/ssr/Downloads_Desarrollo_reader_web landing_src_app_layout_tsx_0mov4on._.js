@@ -1,3 +1,0 @@
-module.exports=[59159,a=>{"use strict";var b=a.i(7544);a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{suppressHydrationWarning:!0,children:(0,b.jsx)("body",{children:a})})},"metadata",0,{title:"Cube Book",description:"AI-powered reading companion",icons:{icon:"/logo.png"}}])},54299,a=>{a.n(a.i(59159))}];
-
-//# sourceMappingURL=Downloads_Desarrollo_reader_web%20landing_src_app_layout_tsx_0mov4on._.js.map

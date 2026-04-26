@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/maima/Downloads/Desarrollo/reader/web%20landing/src/app/layout.tsx"],"sourcesContent":["import type { Metadata } from 'next';\nimport '@/styles/globals.css';\n\nexport const metadata: Metadata = {\n  title: 'Cube Book',\n  description: 'AI-powered reading companion',\n  icons: {\n    icon: '/logo.png'\n  }\n};\n\nexport default function RootLayout({\n  children,\n}: {\n  children: React.ReactNode;\n}) {\n  return (\n    <html suppressHydrationWarning>\n      <body>\n        {children}\n      </body>\n    </html>\n  );\n}\n"],"names":["metadata","title","description","icons","icon","RootLayout","children","suppressHydrationWarning"],"mappings":";;;;;;;;;AAGO,MAAMA,WAAqB;IAChCC,OAAO;IACPC,aAAa;IACbC,OAAO;QACLC,MAAM;IACR;AACF;AAEe,SAASC,WAAW,EACjCC,QAAQ,EAGT;IACC,qBACE,mSAAC;QAAKC,wBAAwB;kBAC5B,cAAA,mSAAC;sBACED;;;;;;;;;;;AAIT"}},
-    {"offset": {"line": 44, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/maima/Downloads/Desarrollo/reader/web%20landing/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = (\n  require('../../module.compiled') as typeof import('../../module.compiled')\n).vendored['react-rsc']!.ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":"AAAAA,OAAOC,OAAO,GACZC,QAAQ,oKACRC,QAAQ,CAAC,YAAY,CAAEC,kBAAkB","ignoreList":[0]}}]
-}
