@@ -1,0 +1,3 @@
+module.exports=[18377,a=>{"use strict";var b=a.i(10043),c=a.i(71592);let d=(0,c.createContext)(void 0);a.s(["TranslationProvider",0,function({children:a,messages:c,locale:e}){return(0,b.jsx)(d.Provider,{value:{t:a=>a.split(".").reduce((a,b)=>a?.[b],c)||a,locale:e},children:a})},"useTranslation",0,function(){let a=(0,c.useContext)(d);if(!a)throw Error("useTranslation must be used within a TranslationProvider");return a}])}];
+
+//# sourceMappingURL=0ipn_Desarrollo_reader_web%20landing_src_contexts_TranslationContext_tsx_0qz68fg._.js.map
