@@ -107,8 +107,9 @@
   }
 
   /* Text stroke effect for display typography */
+  /* Text stroke effect for display typography */
   .text-stroke {
-    @apply -webkit-text-stroke: 2px black;
+    -webkit-text-stroke: 2px black;
     color: transparent;
   }
 
