@@ -107,6 +107,7 @@ export default function ScreenshotGenerator() {
   const [lang, setLang] = useState<'en' | 'es'>('es');
   const [device, setDevice] = useState<'phone' | 'tablet'>('tablet');
   const canvasRefs = useRef<(HTMLDivElement | null)[]>([]);
+  const featureGraphicRef = useRef<HTMLDivElement>(null);
 
   React.useEffect(() => {
     console.log('CubeBook Screenshot Generator v2.2 Loaded');
@@ -115,6 +116,18 @@ export default function ScreenshotGenerator() {
   const getDimensions = () => {
     // Both are 9:16 as requested, only the mockup changes
     return { width: 1080, height: 1920, aspect: 'aspect-[9/16]', previewWidth: '360px', previewHeight: '640px' };
+  };
+
+  const downloadFeatureGraphic = async () => {
+    if (featureGraphicRef.current) {
+      const dataUrl = await toPng(featureGraphicRef.current, {
+        pixelRatio: 2, // 512x250 * 2 = 1024x500
+      });
+      const link = document.createElement('a');
+      link.download = `cubebook-feature-graphic-${lang}.png`;
+      link.href = dataUrl;
+      link.click();
+    }
   };
 
   const downloadScreenshot = async (index: number) => {
@@ -195,6 +208,80 @@ export default function ScreenshotGenerator() {
           </div>
         </header>
 
+        <div className="mb-16">
+          <h2 className="text-3xl font-black uppercase mb-6 flex items-center gap-4">
+            Feature Graphic
+            <span className="text-sm bg-neo-accent text-white px-3 py-1 rounded-none border-2 border-black shadow-neo-sm">1024x500</span>
+          </h2>
+          <div className="flex flex-col md:flex-row gap-8 items-start">
+            <div className="flex flex-col gap-4">
+              <div 
+                ref={featureGraphicRef}
+                className="relative bg-neo-secondary border-4 border-black overflow-hidden flex items-center justify-between"
+                style={{ width: '512px', height: '250px' }}
+              >
+                <div className="absolute inset-0 pointer-events-none" style={{ backgroundImage: 'radial-gradient(black 2px, transparent 0)', backgroundSize: '20px 20px', opacity: 0.15 }}></div>
+                
+                <div className="relative z-10 p-8 flex flex-col justify-center h-full w-[60%]">
+                  <div className="flex items-center gap-3 mb-3">
+                     <div className="w-12 h-12 bg-black flex items-center justify-center border-2 border-white shadow-neo-sm overflow-hidden rounded-xl">
+                       <img src="/logo.png" alt="CubeBook Logo" className="w-full h-full object-cover" />
+                     </div>
+                     <h2 className="text-4xl font-black uppercase tracking-tighter text-white" style={{ textShadow: '2px 2px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 4px 4px 0 #000' }}>
+                       CubeBook
+                     </h2>
+                  </div>
+                  <div className="w-16 h-2 bg-neo-accent border-2 border-black mb-3"></div>
+                  <p className="font-bold text-lg leading-tight mb-4 text-black pr-4">
+                    {lang === 'en' ? 'Your Ultimate Digital Library & AI Reader' : 'Tu biblioteca digital y lector IA definitivo'}
+                  </p>
+                  
+                  <div className="flex gap-2 flex-wrap">
+                    {['Read', 'Listen', 'Analyze'].map((t, i) => (
+                      <span key={i} className="px-3 py-1 bg-white border-2 border-black text-xs font-black uppercase shadow-neo-sm">
+                        {lang === 'en' ? ['Read', 'Listen', 'Analyze'][i] : ['Lee', 'Escucha', 'Analiza'][i]}
+                      </span>
+                    ))}
+                  </div>
+                </div>
+
+                <div className="relative z-10 w-[40%] h-full flex items-center justify-center">
+                    <div className="absolute right-4 top-8 w-[140px] rotate-12">
+                        <div className="relative mx-auto bg-black p-1.5 rounded-[1.8rem] border-2 border-black shadow-neo-sm">
+                           <img src="/capturas/Screenshot_20260426_132333.png" className="w-full h-auto border-2 border-black rounded-[1.5rem]" alt="App Mockup 1" />
+                        </div>
+                    </div>
+                    <div className="absolute right-20 top-16 w-[140px] -rotate-6">
+                        <div className="relative mx-auto bg-black p-1.5 rounded-[1.8rem] border-2 border-black shadow-neo-sm">
+                           <img src="/capturas/Screenshot_20260426_132632.png" className="w-full h-auto border-2 border-black rounded-[1.5rem]" alt="App Mockup 2" />
+                        </div>
+                    </div>
+                </div>
+              </div>
+
+              <button 
+                onClick={downloadFeatureGraphic}
+                className="w-full bg-black text-white border-4 border-black py-2 font-black uppercase shadow-neo-sm hover:shadow-none hover:translate-x-1 hover:translate-y-1 transition-all"
+              >
+                Download Feature Graphic ({lang.toUpperCase()})
+              </button>
+            </div>
+            
+            <div className="flex-1 bg-white border-4 border-black p-6 shadow-neo-sm">
+              <h3 className="font-black uppercase text-xl mb-4">Feature Graphic Specs</h3>
+              <ul className="list-disc pl-5 font-bold space-y-2">
+                <li>Format: PNG</li>
+                <li>Max Size: 15 MB</li>
+                <li>Dimensions: 1024px by 500px</li>
+                <li>Content adapts to selected language ({lang.toUpperCase()})</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <h2 className="text-3xl font-black uppercase mb-6 mt-12 flex items-center gap-4">
+          Screenshots
+        </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12">
           {SCREENSHOT_DATA.map((data, idx) => {
             
@@ -288,8 +375,8 @@ export default function ScreenshotGenerator() {
 
                 {/* Branding Footer */}
                 <div className="mt-auto mb-6 w-full flex justify-center items-center gap-3 z-30">
-                  <div className="w-10 h-10 bg-black flex items-center justify-center border-4 border-white shadow-neo-sm">
-                    <span className="text-white font-black text-sm">CB</span>
+                  <div className="w-10 h-10 bg-black flex items-center justify-center border-2 border-white shadow-neo-sm overflow-hidden rounded-xl">
+                    <img src="/logo.png" alt="CubeBook Logo" className="w-full h-full object-cover" />
                   </div>
                   <div className="flex flex-col items-start">
                     <span className="bg-black text-white px-3 py-0.5 font-black text-[12px] uppercase tracking-tighter">
