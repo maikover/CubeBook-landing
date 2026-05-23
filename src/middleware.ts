@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
 
-const locales = ['en', 'es'];
+const locales = ['en', 'es', 'pt', 'fr', 'de', 'it', 'ja', 'ko', 'zh', 'ru'];
 const defaultLocale = 'en';
 
 export function middleware(request: NextRequest) {
@@ -18,7 +18,7 @@ export function middleware(request: NextRequest) {
 
   // Determine the preferred locale
   let locale = localeCookie;
-  if (!locale || !locales.includes(locale as 'en' | 'es')) {
+  if (!locale || !locales.includes(locale as 'en' | 'es' | 'pt' | 'fr' | 'de' | 'it' | 'ja' | 'ko' | 'zh' | 'ru')) {
     locale = detectPreferredLocale(acceptLanguage);
   }
 
@@ -72,7 +72,7 @@ function detectPreferredLocale(acceptLanguage: string): string {
     .sort((a, b) => b.quality - a.quality);
 
   for (const lang of languages) {
-    if (locales.includes(lang.code as 'en' | 'es')) {
+    if (locales.includes(lang.code as 'en' | 'es' | 'pt' | 'fr' | 'de' | 'it' | 'ja' | 'ko' | 'zh' | 'ru')) {
       return lang.code;
     }
   }
@@ -83,4 +83,3 @@ function detectPreferredLocale(acceptLanguage: string): string {
 export const config = {
   matcher: ['/((?!api|_next/static|_next/image|favicon.ico|.*\\.(?:png|jpg|jpeg|svg|gif|webp|ico)$|_next|images).*)']
 };
-

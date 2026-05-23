@@ -4,15 +4,15 @@
   "sections": {
     "introduction": {
       "title": "Introduction",
-      "content": "At Anx Reader, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our application. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the application."
+      "content": "At Cube Book, we take your privacy very seriously. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our application. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the application."
     },
     "informationWeCollect": {
       "title": "Information We Collect",
-      "content": "We collect minimal data necessary to provide and improve our services: Personal Data: We do not collect personally identifiable information such as name, email address, or phone number unless you voluntarily provide it. Usage Data: We automatically collect anonymous usage statistics to improve app performance and user experience. Voice Recordings: Voice inputs used for speech recognition are processed in real-time and are not stored on our servers."
+      "content": "We collect minimal data necessary to provide and improve our services: Personal Data: We do not collect personally identifiable information such as name, email address, or phone number unless you voluntarily provide it. Usage Data: We collect anonymous usage statistics automatically to improve app performance and user experience. Voice Recordings: Voice inputs used for speech recognition are processed in real-time and are not stored on our servers."
     },
     "howWeUse": {
       "title": "How We Use Your Information",
-      "content": "We use the collected information for: Providing and maintaining our service, Improving and personalizing your experience, Analyzing usage patterns to enhance features, Communicating with you about updates and new features."
+      "content": "We use the collected information to: Provide and maintain our service, Improve and personalize your experience, Analyze usage patterns to enhance features, Communicate with you about updates and new features."
     },
     "dataSharing": {
       "title": "Data Sharing and Disclosure",
@@ -24,23 +24,23 @@
     },
     "yourRights": {
       "title": "Your Rights",
-      "content": "You have the right to: Access any personal data we hold about you, Request correction of inaccurate data, Request deletion of your data, Withdraw consent at any time."
+      "content": "You have the right to: Access any personal data we have about you, Request correction of inaccurate data, Request deletion of your data, Withdraw consent at any time."
     },
     "cookies": {
       "title": "Cookies and Tracking",
-      "content": "We use essential cookies to ensure the app functions properly. We do not use advertising or tracking cookies. You can disable cookies through your browser settings, though this may affect app functionality."
+      "content": "We use essential cookies to ensure the application works properly. We do not use advertising or tracking cookies. You can disable cookies through your browser settings, although this may affect the application's functionality."
     },
     "children": {
       "title": "Children's Privacy",
-      "content": "Our app is suitable for users of all ages. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal data, please contact us."
+      "content": "Our application is suitable for users of all ages. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided personal data, contact us."
     },
     "changes": {
       "title": "Changes to This Policy",
       "content": "We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the 'Last updated' date."
     },
     "contact": {
-      "title": "Contact Us",
-      "content": "If you have any questions about this Privacy Policy, please contact us at: Email: privacy@anxreader.app"
+      "title": "Contact",
+      "content": "If you have any questions about this Privacy Policy, contact us at: Email: privacy@cubebook.app"
     }
   }
 }

@@ -1,0 +1,46 @@
+{
+  "title": "Informativa sulla Privacy",
+  "lastUpdated": "Ultimo aggiornamento: Aprile 2025",
+  "sections": {
+    "introduction": {
+      "title": "Introduzione",
+      "content": "In Cube Book, prendiamo sul serio la tua privacy. Questa Informativa sulla Privacy spiega come raccogliamo, usiamo, divulghiamo e proteggiamo le tue informazioni quando usi la nostra applicazione. Leggi attentamente questa informativa sulla privacy. Se non sei d'accordo con i termini di questa informativa sulla privacy, ti preghiamo di non accedere all'applicazione."
+    },
+    "informationWeCollect": {
+      "title": "Informazioni che Raccogliamo",
+      "content": "Raccogliamo dati minimi necessari per fornire e migliorare i nostri servizi: Dati Personali: Non raccogliamo informazioni di identificazione personale come nome, indirizzo email o numero di telefono a meno che tu non le fornisca volontariamente. Dati di Utilizzo: Raccogliamo statistiche di utilizzo anonime automaticamente per migliorare le prestazioni dell'applicazione e l'esperienza dell'utente. Registrazioni Vocali: Gli input vocali usati per il riconoscimento vocale vengono elaborati in tempo reale e non sono archiviati sui nostri server."
+    },
+    "howWeUse": {
+      "title": "Come Usiamo le Tue Informazioni",
+      "content": "Usiamo le informazioni raccolte per: Fornire e mantenere il nostro servizio, Migliorare e personalizzare la tua esperienza, Analizzare i modelli di utilizzo per migliorare le funzionalità, Comunicare con te su aggiornamenti e nuove funzionalità."
+    },
+    "dataSharing": {
+      "title": "Condivisione e Divulgazione dei Dati",
+      "content": "Non vendiamo, scambiamo o trasferiamo le tue informazioni a terzi excepto: Con il tuo consenso esplicito, Per ottemperare a obblighi legali, Per proteggere i nostri diritti, proprietà o sicurezza, o quelli di altri."
+    },
+    "dataSecurity": {
+      "title": "Sicurezza dei Dati",
+      "content": "Implementiamo misure di sicurezza appropriate per proteggere i tuoi dati contro accesso non autorizzato, alterazione o distruzione. Tutta l'elaborazione vocale è crittografata in transito e seguiamo le migliori pratiche del settore per la protezione dei dati."
+    },
+    "yourRights": {
+      "title": "I Tuoi Diritti",
+      "content": "Hai il diritto di: Accedere a qualsiasi dato personale che abbiamo su di te, Richiedere la correzione di dati inesatti, Richiedere la cancellazione dei tuoi dati, Ritirare il consenso in qualsiasi momento."
+    },
+    "cookies": {
+      "title": "Cookie e Tracciamento",
+      "content": "Usiamo cookie essenziali per garantire che l'applicazione funzioni correttamente. Non usiamo cookie pubblicitari o di tracciamento. Puoi disabilitare i cookie attraverso le impostazioni del tuo browser, anche se questo potrebbe influenzare la funzionalità dell'applicazione."
+    },
+    "children": {
+      "title": "Privacy dei Bambini",
+      "content": "La nostra applicazione è adatta per utenti di tutte le età. Non raccogliamo consapevolmente informazioni personali da bambini di età inferiore a 13 anni. Se sei un genitore o tutore e credi che tuo figlio abbia fornito dati personali, contattaci."
+    },
+    "changes": {
+      "title": "Modifiche a Questa Informativa",
+      "content": "Potremmo aggiornare la nostra Informativa sulla Privacy di volta in volta. Ti notificheremo di eventuali modifiche pubblicando la nuova Informativa sulla Privacy su questa pagina e aggiornando la data di 'Ultimo aggiornamento'."
+    },
+    "contact": {
+      "title": "Contatti",
+      "content": "Se hai domande su questa Informativa sulla Privacy, contattaci all'indirizzo: Email: privacy@cubebook.app"
+    }
+  }
+}

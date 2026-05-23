@@ -1,0 +1,46 @@
+{
+  "title": "Datenschutzrichtlinie",
+  "lastUpdated": "Zuletzt aktualisiert: April 2025",
+  "sections": {
+    "introduction": {
+      "title": "Einleitung",
+      "content": "Bei Cube Book nehmen wir Ihre Privatsphäre sehr ernst. Diese Datenschutzrichtlinie erklärt, wie wir Ihre Informationen sammeln, verwenden, offenlegen und schützen, wenn Sie unsere Anwendung nutzen. Bitte lesen Sie diese Datenschutzrichtlinie sorgfältig. Wenn Sie mit den Bedingungen dieser Datenschutzrichtlinie nicht einverstanden sind, greifen Sie bitte nicht auf die Anwendung zu."
+    },
+    "informationWeCollect": {
+      "title": "Informationen, die wir sammeln",
+      "content": "Wir sammeln minimale Daten, die zur Bereitstellung und Verbesserung unserer Dienste erforderlich sind: Persönliche Daten: Wir sammeln keine personenbezogenen Daten wie Name, E-Mail-Adresse oder Telefonnummer, es sei denn, Sie stellen sie freiwillig bereit. Nutzungsdaten: Wir sammeln automatisch anonyme Nutzungsstatistiken, um die Anwendungsleistung und das Benutzererlebnis zu verbessern. Sprachaufnahmen: Spracheingaben für die Spracherkennung werden in Echtzeit verarbeitet und nicht auf unseren Servern gespeichert."
+    },
+    "howWeUse": {
+      "title": "Wie wir Ihre Informationen verwenden",
+      "content": "Wir verwenden die gesammelten Informationen, um: Unseren Service bereitzustellen und zu erhalten, Ihr Erlebnis zu verbessern und zu personalisieren, Nutzungsmuster zu analysieren, um Funktionen zu verbessern, Mit Ihnen über Updates und neue Funktionen zu kommunizieren."
+    },
+    "dataSharing": {
+      "title": "Datenweitergabe und Offenlegung",
+      "content": "Wir verkaufen, handeln oder übertragen Ihre Informationen nicht an Dritte, außer: Mit Ihrer ausdrücklichen Zustimmung, Um gesetzliche Verpflichtungen zu erfüllen, Um unsere Rechte, unser Eigentum oder unsere Sicherheit oder die anderer zu schützen."
+    },
+    "dataSecurity": {
+      "title": "Datensicherheit",
+      "content": "Wir implementieren geeignete Sicherheitsmaßnahmen, um Ihre Daten gegen unbefugten Zugriff, Änderung oder Zerstörung zu schützen. Alle Sprachverarbeitung ist bei der Übertragung verschlüsselt und wir befolgen branchenübliche Best Practices für den Datenschutz."
+    },
+    "yourRights": {
+      "title": "Ihre Rechte",
+      "content": "Sie haben das Recht auf: Zugriff auf alle personenbezogenen Daten, die wir über Sie haben, Berichtigung unrichtiger Daten, Löschung Ihrer Daten, Widerruf der Einwilligung jederzeit."
+    },
+    "cookies": {
+      "title": "Cookies und Tracking",
+      "content": "Wir verwenden wesentliche Cookies, um sicherzustellen, dass die Anwendung ordnungsgemäß funktioniert. Wir verwenden keine Werbe- oder Tracking-Cookies. Sie können Cookies über Ihre Browsereinstellungen deaktivieren, obwohl dies die Funktionalität der Anwendung beeinträchtigen kann."
+    },
+    "children": {
+      "title": "Kinderprivatsphäre",
+      "content": "Unsere Anwendung ist für Benutzer jeden Alters geeignet. Wir sammeln wissentlich keine personenbezogenen Daten von Kindern unter 13 Jahren. Wenn Sie ein Elternteil oder Erziehungsberechtigter sind und glauben, dass Ihr Kind personenbezogene Daten bereitgestellt hat, kontaktieren Sie uns."
+    },
+    "changes": {
+      "title": "Änderungen dieser Richtlinie",
+      "content": "Wir können unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Wir werden Sie über Änderungen informieren, indem wir die neue Datenschutzrichtlinie auf dieser Seite veröffentlichen und das 'Zuletzt aktualisiert'-Datum aktualisieren."
+    },
+    "contact": {
+      "title": "Kontakt",
+      "content": "Wenn Sie Fragen zu dieser Datenschutzrichtlinie haben, kontaktieren Sie uns unter: E-Mail: privacy@cubebook.app"
+    }
+  }
+}

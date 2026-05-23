@@ -1,0 +1,83 @@
+{
+  "appName": "Cube Book",
+  "appDescription": "AI 기반 독서 지원으로 더 빨리 읽고 더 많이 이해하세요",
+  "tagline": "더 빨리 읽고, 더 많이 이해하세요",
+  "subtitle": "콘텐츠 소비 방식을 변화시키는 개인 AI 독서 동반자",
+  "getStarted": "시작하기",
+  "learnMore": "자세히 알아보기",
+  "downloadNow": "Play Store에서 다운로드",
+  "features": {
+    "title": "기능",
+    "subtitle": "독서 경험을 향상시키는 데 필요한 모든 것",
+    "speechRecognition": {
+      "title": "실시간 음성 인식",
+      "description": "높은 정확도로 말하기 단어를 즉시 텍스트로 변환"
+    },
+    "languageComparison": {
+      "title": "언어 간 비교",
+      "description": "여러 언어로 된 콘텐츠를 나란히 비교"
+    },
+    "vocabularyBuilder": {
+      "title": "스마트 어휘 빌더",
+      "description": "지능형 알림으로 어휘를 구축하고 강화"
+    },
+    "aiSummaries": {
+      "title": "AI 요약",
+      "description": "몇 초 만에 모든 콘텐츠의 간결한 요약 제공"
+    }
+  },
+  "navigation": {
+    "home": "홈",
+    "features": "기능",
+    "download": "다운로드",
+    "privacy": "개인정보 보호정책",
+    "terms": "이용약관",
+    "language": "언어"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "privacy": "개인정보 보호정책",
+    "terms": "이용약관",
+    "legal": "법적 정보",
+    "contact": "연락처",
+    "description": "최첨단 AI 기술로 독서 경험 향상"
+  },
+  "buttons": {
+    "readMore": "더 읽기",
+    "downloadFor": "다운로드",
+    "availableOn": "이용 가능"
+  },
+  "altText": {
+    "appLogo": "Cube Book 로고",
+    "heroImage": "Cube Book 인터페이스",
+    "phoneMockup": "Cube Book 스마트폰"
+  },
+  "meta": {
+    "title": "Cube Book - AI로 더 빨리 읽기",
+    "description": "Cube Book로 독서 경험을 변화시키세요. AI 음성 인식, 어휘 구축, 언어 간 비교."
+  },
+  "showcase": {
+    "title": "CUBE BOOK 내부",
+    "subtitle": "경고: 당사의 인터페이스는 매우 중독성이 있습니다.",
+    "preview": "미리보기",
+    "library": {
+      "title": "당신의 라이브러리, 해방됨",
+      "description": "전체 독서 유니버스를 organizes. 초시각적인 책장으로 내가 읽은 것, 끝낸 것, 읽고 싶은 것을 추적하는 것은 실제 페이지를 넘기는 것만큼 만족스럽습니다.",
+      "badge": "아름다운 UI"
+    },
+    "aiGuru": {
+      "title": "당신의 개인 AI 구루",
+      "description": "독서 루틴에 갇혔나요? 당사의 AI가 당신의 독서 기록을 분석하고 당신의 스타일에 완벽히 맞는 책을 제안합니다. 줄거리, 캐릭터, 깊은 주제에 대한 질문에도 답변합니다.",
+      "badge": "스마트 AI"
+    },
+    "stats": {
+      "title": "당신의 통계를 자랑하세요",
+      "description": "자랑스러운 숫자. 독서 연속 기록, 일일 분, 완료율을 absolutely gorgeous, 간단한 대시보드에서 추적하세요.",
+      "badge": "데이터 괴짜"
+    }
+  },
+  "hero": {
+    "readFaster": "더 빨리 읽어라.",
+    "thinkDeeper": "더 깊이 이해하라."
+  }
+}

@@ -5,7 +5,7 @@
   "subtitle": "Tu compañero personal de lectura con IA que transforma cómo consumes contenido",
   "getStarted": "Comenzar",
   "learnMore": "Saber Más",
-  "downloadNow": "Descargar Ahora",
+  "downloadNow": "Descargar en Play Store",
   "features": {
     "title": "Características",
     "subtitle": "Todo lo que necesitas para mejorar tu experiencia de lectura",
@@ -75,5 +75,9 @@
       "description": "Números que te hacen sentir orgulloso. Rastrea tus rachas, minutos diarios y porcentajes de completado en un panel absolutamente hermoso y sin rodeos.",
       "badge": "EXPERTO EN DATOS"
     }
+  },
+  "hero": {
+    "readFaster": "LEE MÁS RÁPIDO.",
+    "thinkDeeper": "COMPRENDE MEJOR."
   }
 }

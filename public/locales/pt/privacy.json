@@ -1,0 +1,46 @@
+{
+  "title": "Política de Privacidade",
+  "lastUpdated": "Última atualização: Abril 2025",
+  "sections": {
+    "introduction": {
+      "title": "Introdução",
+      "content": "Na Cube Book, levamos sua privacidade muito a sério. Esta Política de Privacidade explica como coletamos, usamos, divulgamos e protegemos suas informações quando você usa nosso aplicativo. Por favor, leia esta política de privacidade cuidadosamente. Se você não concorda com os termos desta política de privacidade, não acessei o aplicativo."
+    },
+    "informationWeCollect": {
+      "title": "Informações que Coletamos",
+      "content": "Coletamos dados mínimos necessários para fornecer e melhorar nossos serviços: Dados Pessoais: Não coletamos informações de identificação pessoal como nome, endereço de e-mail ou número de telefone, a menos que você os forneça voluntariamente. Dados de Uso: Coletamos estatísticas de uso anônimas automaticamente para melhorar o desempenho do aplicativo e a experiência do usuário. Gravações de Voz: As entradas de voz usadas para reconhecimento de voz são processadas em tempo real e não são armazenadas em nossos servidores."
+    },
+    "howWeUse": {
+      "title": "Como Usamos Suas Informações",
+      "content": "Usamos as informações coletadas para: Fornecer e manter nosso serviço, Melhorar e personalizar sua experiência, Analisar padrões de uso para aprimorar recursos, Comunicar com você sobre atualizações e novos recursos."
+    },
+    "dataSharing": {
+      "title": "Compartilhamento e Divulgação de Dados",
+      "content": "Não vendemos, negociamos ou transferimos suas informações para terceiros, exceto: Com seu consentimento explícito, Para cumprir obrigações legais, Para proteger nossos direitos, propriedade ou segurança, ou de outros."
+    },
+    "dataSecurity": {
+      "title": "Segurança de Dados",
+      "content": "Implementamos medidas de segurança apropriadas para proteger seus dados contra acesso não autorizado, alteração ou destruição. Todo o processamento de voz é criptografado em trânsito e seguimos as melhores práticas da indústria para proteção de dados."
+    },
+    "yourRights": {
+      "title": "Seus Direitos",
+      "content": "Você tem o direito de: Acessar quaisquer dados pessoais que temos sobre você, Solicitar correção de dados imprecisos, Solicitar exclusão de seus dados, Retirar o consentimento a qualquer momento."
+    },
+    "cookies": {
+      "title": "Cookies e Rastreamento",
+      "content": "Usamos cookies essenciais para garantir que o aplicativo funcione corretamente. Não usamos cookies de publicidade ou rastreamento. Você pode desativar cookies através das configurações do seu navegador, embora isso possa afetar a funcionalidade do aplicativo."
+    },
+    "children": {
+      "title": "Privacidade das Crianças",
+      "content": "Nosso aplicativo é adequado para usuários de todas as idades. Não coletamos intencionalmente informações pessoais de crianças menores de 13 anos. Se você é pai ou responsável e acredita que seu filho forneceu dados pessoais, entre em contato conosco."
+    },
+    "changes": {
+      "title": "Mudanças nesta Política",
+      "content": "Podemos atualizar nossa Política de Privacidade de tempos em tempos. Notificaremos você sobre quaisquer mudanças publicando a nova Política de Privacidade nesta página e atualizando a data de 'Última atualização'."
+    },
+    "contact": {
+      "title": "Contato",
+      "content": "Se você tiver alguma pergunta sobre esta Política de Privacidade, entre em contato conosco em: E-mail: privacy@cubebook.app"
+    }
+  }
+}

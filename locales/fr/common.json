@@ -1,0 +1,83 @@
+{
+  "appName": "Cube Book",
+  "appDescription": "Lisez plus vite, comprenez mieux avec une assistance de lecture alimentée par l'IA",
+  "tagline": "Lisez plus vite, comprenez mieux",
+  "subtitle": "Votre compagnon de lecture personnel alimenté par l'IA qui transforme votre façon de consommer le contenu",
+  "getStarted": "Commencer",
+  "learnMore": "En Savoir Plus",
+  "downloadNow": "Télécharger sur Play Store",
+  "features": {
+    "title": "Fonctionnalités",
+    "subtitle": "Tout ce dont vous avez besoin pour améliorer votre expérience de lecture",
+    "speechRecognition": {
+      "title": "Reconnaissance Vocale en Temps Réel",
+      "description": "Convertissez les mots parlés en texte instantanément avec une haute précision"
+    },
+    "languageComparison": {
+      "title": "Comparaison Entre Langues",
+      "description": "Comparez du contenu dans différentes langues côte à côte"
+    },
+    "vocabularyBuilder": {
+      "title": "Constructeur de Vocabulaire Intelligent",
+      "description": "Construisez et renforcez votre vocabulaire avec des rappels intelligents"
+    },
+    "aiSummaries": {
+      "title": "Résumés avec IA",
+      "description": "Obtenez des résumés concis de n'importe quel contenu en quelques secondes"
+    }
+  },
+  "navigation": {
+    "home": "Accueil",
+    "features": "Fonctionnalités",
+    "download": "Télécharger",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "language": "Langue"
+  },
+  "footer": {
+    "rights": "Tous droits réservés",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "legal": "Légal",
+    "contact": "Contact",
+    "description": "Améliorant votre expérience de lecture avec une technologie IA de pointe"
+  },
+  "buttons": {
+    "readMore": "Lire Plus",
+    "downloadFor": "Télécharger pour",
+    "availableOn": "Disponible sur"
+  },
+  "altText": {
+    "appLogo": "Logo Cube Book",
+    "heroImage": "Interface Cube Book",
+    "phoneMockup": "Cube Book sur smartphone"
+  },
+  "meta": {
+    "title": "Cube Book - Lisez Plus Vite avec l'IA",
+    "description": "Transformez votre expérience de lecture avec Cube Book. Reconnaissance vocale IA, construction de vocabulaire et comparaison entre langues."
+  },
+  "showcase": {
+    "title": "À L'INTÉRIEUR DE CUBE BOOK",
+    "subtitle": "Avertissement: Notre interface est hautement addictive.",
+    "preview": "APERÇU",
+    "library": {
+      "title": "VOTRE BIBLIOTHÈQUE, SANS LIMITES",
+      "description": "Organisez tout votre univers de lecture. Avec notre bibliothèque ultra-visuelle, suivre ce que vous lisez, ce que vous avez terminé et ce que vous voulez lire est aussi satisfaisant que tourner une page physique.",
+      "badge": "BELLE UI"
+    },
+    "aiGuru": {
+      "title": "VOTRE GURU IA PERSONNEL",
+      "description": "Bloqué dans une routine de lecture? Notre IA analyse votre historique et suggère des livres qui correspondent parfaitement à votre style. Il répond aux questions sur l'intrigue, les personnages et les thèmes profonds.",
+      "badge": "IA INTELLIGENTE"
+    },
+    "stats": {
+      "title": "AFFICHEZ VOS STATISTIQUES",
+      "description": "Des chiffres qui vous rendent fier. Suivez vos séries, minutes quotidiennes et pourcentages terminés dans un tableau de bord magnifique et sans fioritures.",
+      "badge": "NERD DES DONNÉES"
+    }
+  },
+  "hero": {
+    "readFaster": "LISEZ PLUS VITE.",
+    "thinkDeeper": "COMPRENEZ MIEUX."
+  }
+}

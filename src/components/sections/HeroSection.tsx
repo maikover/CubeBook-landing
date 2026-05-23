@@ -55,9 +55,9 @@ export default function HeroSection() {
             </div>
 
             <h1 className="text-display-sm md:text-display text-black mb-8 relative">
-              <span className="block mb-2">READ FASTER.</span>
+              <span className="block mb-2">{t('hero.readFaster')}</span>
               <span className="block bg-neo-accent text-white px-4 border-4 border-black shadow-neo-sm -rotate-2 w-max text-stroke relative z-10">
-                 THINK DEEPER.
+                 {t('hero.thinkDeeper')}
               </span>
             </h1>
             
@@ -68,14 +68,9 @@ export default function HeroSection() {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-6 w-full sm:w-auto">
-              <a href="#download" className="w-full sm:w-auto">
+              <a href="https://play.google.com/store/apps/details?id=com.cubebook" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto">
                 <Button size="lg" variant="primary" className="w-full text-lg h-16 pointer-events-none hover:rotate-2 shadow-neo-md text-white border-8 border-black">
-                  {t('getStarted')}
-                </Button>
-              </a>
-              <a href="#features" className="w-full sm:w-auto">
-                <Button size="lg" variant="secondary" className="w-full text-lg h-16 shadow-neo-md">
-                  {t('learnMore')}
+                  {t('downloadNow')}
                 </Button>
               </a>
             </div>
@@ -160,9 +155,11 @@ export default function HeroSection() {
                {t('subtitle')}
              </p>
              <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
-               <Button size="lg" variant="primary" className="w-full sm:w-auto h-16 text-xl">
-                 {t('downloadNow')}
-               </Button>
+               <a href="https://play.google.com/store/apps/details?id=com.cubebook" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto">
+                 <Button size="lg" variant="primary" className="w-full text-xl">
+                   {t('downloadNow')}
+                 </Button>
+               </a>
              </div>
            </div>
         </div>

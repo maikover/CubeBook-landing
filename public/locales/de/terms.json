@@ -1,0 +1,42 @@
+{
+  "title": "Nutzungsbedingungen",
+  "lastUpdated": "Zuletzt aktualisiert: April 2025",
+  "sections": {
+    "agreement": {
+      "title": "Vereinbarung zu den Bedingungen",
+      "content": "Mit dem Zugriff oder der Nutzung von Cube Book stimmen Sie zu, an diese Nutzungsbedingungen gebunden zu sein. Wenn Sie nicht mit allen Bedingungen einverstanden sind, können Sie nicht auf die Anwendung zugreifen."
+    },
+    "useLicense": {
+      "title": "Nutzungslizenz",
+      "content": "Die Erlaubnis wird erteilt, Cube Book vorübergehend nur für den persönlichen, nicht-kommerziellen Gebrauch herunterzuladen und zu nutzen. Dies ist eine Lizenzgewährung, kein Eigentumsübertragung. Unter dieser Lizenz dürfen Sie nicht: Materialien modifizieren oder kopieren; Materialien für kommerzielle Zwecke verwenden; Versuchen, Software in der Anwendung zu dekompilieren oder zurückzuentwickeln; Urheberrechtsvermerke oder andere Eigentumshinweise entfernen."
+    },
+    "disclaimer": {
+      "title": "Haftungsausschluss",
+      "content": "Die Materialien in Cube Book werden 'wie besehen' bereitgestellt. Wir geben keine Gewährleistungen, ausdrücklich oder impliziert, und hereby disclaim and negate all other warranties, einschließlich ohne Einschränkung, implizierte Gewährleistungen oder Bedingungen der Marktgängigkeit, Eignung für einen bestimmten Zweck oder Nichtverletzung von geistigem Eigentum."
+    },
+    "limitations": {
+      "title": "Einschränkungen",
+      "content": "In keinem Fall haften Cube Book oder seine Lieferanten für Schäden, die aus der Nutzung oder Unfähigkeit zur Nutzung der Materialien in der Anwendung entstehen, selbst wenn Cube Book oder ein bevollmächtigter Vertreter mündlich oder schriftlich über die Möglichkeit solcher Schäden benachrichtigt wurde."
+    },
+    "accuracy": {
+      "title": "Genauigkeit der Materialien",
+      "content": "Die in Cube Book erscheinenden Materialien können technische, typographische oder fotografische Fehler enthalten. Cube Book garantiert nicht, dass cualquiera de los materiales sea preciso, completo oder aktuell. Wir können jederzeit ohne Vorankündigung Änderungen an den Materialien vornehmen."
+    },
+    "links": {
+      "title": "Externe Links",
+      "content": "Wir haben nicht alle mit Cube Book verlinkten Sites überprüft und sind nicht für deren Inhalte verantwortlich. Die Einbeziehung eines Links bedeutet keine Billigung durch Cube Book."
+    },
+    "modifications": {
+      "title": "Änderungen der Bedingungen",
+      "content": "Cube Book kann diese Nutzungsbedingungen jederzeit ohne Vorankündigung überarbeiten. Mit der Nutzung dieser Anwendung akzeptieren Sie die aktuelle Version dieser Nutzungsbedingungen."
+    },
+    "governingLaw": {
+      "title": "Anwendbares Recht",
+      "content": "Diese Bedingungen unterliegen den geltenden Gesetzen und werden entsprechend ausgelegt, und alle Streitigkeiten werden in den zuständigen Gerichten beigelegt."
+    },
+    "contactInfo": {
+      "title": "Kontaktinformationen",
+      "content": "Fragen zu diesen Nutzungsbedingungen sollten an uns gesendet werden an: E-Mail: legal@cubebook.app"
+    }
+  }
+}

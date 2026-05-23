@@ -1,0 +1,83 @@
+{
+  "appName": "Cube Book",
+  "appDescription": "Lesen Sie schneller, verstehen Sie mehr mit KI-gestützter Leseunterstützung",
+  "tagline": "Lesen Sie schneller, verstehen Sie mehr",
+  "subtitle": "Ihr persönlicher KI-Lesebegleiter, der transformiert, wie Sie Inhalte konsumieren",
+  "getStarted": "Loslegen",
+  "learnMore": "Mehr Erfahren",
+  "downloadNow": "Im Play Store Herunterladen",
+  "features": {
+    "title": "Funktionen",
+    "subtitle": "Alles was Sie brauchen um Ihr Leseerlebnis zu verbessern",
+    "speechRecognition": {
+      "title": "Echtzeit-Spracherkennung",
+      "description": "Wandeln Sie gesprochene Worte mit hoher Genauigkeit sofort in Text um"
+    },
+    "languageComparison": {
+      "title": "Sprachübergreifender Vergleich",
+      "description": "Vergleichen Sie Inhalte in verschiedenen Sprachen nebeneinander"
+    },
+    "vocabularyBuilder": {
+      "title": "Intelligenter Vokabeltrainer",
+      "description": "Bauen Sie Ihr Vokabular mit intelligenten Hinweisen auf und stärken Sie es"
+    },
+    "aiSummaries": {
+      "title": "KI-Zusammenfassungen",
+      "description": "Erhalten Sie in Sekunden prägnante Zusammenfassungen beliebiger Inhalte"
+    }
+  },
+  "navigation": {
+    "home": "Startseite",
+    "features": "Funktionen",
+    "download": "Herunterladen",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "language": "Sprache"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "legal": "Rechtliches",
+    "contact": "Kontakt",
+    "description": "Verbesserung Ihres Leseerlebnisses mit hochmoderner KI-Technologie"
+  },
+  "buttons": {
+    "readMore": "Mehr Lesen",
+    "downloadFor": "Herunterladen für",
+    "availableOn": "Verfügbar auf"
+  },
+  "altText": {
+    "appLogo": "Cube Book Logo",
+    "heroImage": "Cube Book Oberfläche",
+    "phoneMockup": "Cube Book auf Smartphone"
+  },
+  "meta": {
+    "title": "Cube Book - Lesen Sie Schneller mit KI",
+    "description": "Transformieren Sie Ihr Leseerlebnis mit Cube Book. KI-Spracherkennung, Vokabelaufbau und sprachübergreifender Vergleich."
+  },
+  "showcase": {
+    "title": "INNENANSICHT VON CUBE BOOK",
+    "subtitle": "Warnung: Unsere Oberfläche ist hochgradig süchtig machend.",
+    "preview": "VORSCHAU",
+    "library": {
+      "title": "IHRE BIBLIOTHEK, ENTFESSELT",
+      "description": "Organisieren Sie Ihr gesamtes Lesuniversum. Mit unserem ultra-visuellen Bücherregal ist es genauso befriedigend zu verfolgen, was Sie lesen, was Sie beendet haben und was Sie lesen möchten, wie eine physische Seite umzublättern.",
+      "badge": "SCHÖNE UI"
+    },
+    "aiGuru": {
+      "title": "IHR PERSÖNLICHER KI-GURU",
+      "description": "In einer Leseroutine feststecken? Unsere KI analysiert Ihren Leseverlauf und schlägt Bücher vor, die perfekt zu Ihrem Stil passen. Sie beantwortet sogar Fragen zu Handlung, Charakteren und tiefen Themen.",
+      "badge": "INTELLIGENTE KI"
+    },
+    "stats": {
+      "title": "ZEIGEN SIE IHRE STATISTIKEN",
+      "description": "Zahlen, die Sie stolz machen. Verfolgen Sie Ihre Leseserien, täglichen Minuten und Abschlussprozente in einem absolut schönen, schnörkellosen Dashboard.",
+      "badge": "DATEN-NERD"
+    }
+  },
+  "hero": {
+    "readFaster": "LESEN SIE SCHNELLER.",
+    "thinkDeeper": "VERSTEHEN SIE BESSER."
+  }
+}

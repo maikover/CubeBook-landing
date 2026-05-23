@@ -3,40 +3,40 @@
   "lastUpdated": "Last updated: April 2025",
   "sections": {
     "agreement": {
-      "title": "Agreement to Terms",
-      "content": "By accessing or using Anx Reader, you agree to be bound by these Terms of Use. If you do not agree to all the terms and conditions, then you may not access the application."
+      "title": "Terms Agreement",
+      "content": "By accessing or using Cube Book, you agree to be bound by these Terms of Use. If you do not agree with all the terms and conditions, then you may not access the application."
     },
     "useLicense": {
       "title": "Use License",
-      "content": "Permission is granted to temporarily download and use Anx Reader for personal, non-commercial use only. This is the grant of a license, not a transfer of title. Under this license you may not: Modify or copy the materials; Use the materials for any commercial purpose; Attempt to decompile or reverse engineer any software contained in the application; Remove any copyright or other proprietary notations."
+      "content": "Permission is granted to temporarily download and use Cube Book only for personal, non-commercial use. This is a license grant, not a title transfer. Under this license you cannot: Modify or copy the materials; Use the materials for any commercial purpose; Attempt to decompile or reverse engineer any software contained in the application; Remove any copyright or other proprietary notices."
     },
     "disclaimer": {
       "title": "Disclaimer",
-      "content": "The materials in Anx Reader are provided on an 'as is' basis. We make no warranties, expressed or implied, and hereby disclaim and negate all other warranties including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property."
+      "content": "The materials in Cube Book are provided 'as is'. We make no warranties, express or implied, and hereby disclaim and negate all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property."
     },
     "limitations": {
       "title": "Limitations",
-      "content": "In no event shall Anx Reader or its suppliers be liable for any damages arising out of the use or inability to use the materials on the application, even if Anx Reader or its authorized representative has been notified orally or in writing of the possibility of such damage."
+      "content": "In no event shall Cube Book or its suppliers be liable for any damages arising from the use or inability to use the materials in the application, even if Cube Book or an authorized representative has been notified orally or in writing of the possibility of such damage."
     },
     "accuracy": {
       "title": "Accuracy of Materials",
-      "content": "The materials appearing on Anx Reader could include technical, typographical, or photographic errors. Anx Reader does not warrant that any of the materials are accurate, complete, or current. We may make changes to the materials at any time without notice."
+      "content": "The materials appearing in Cube Book may include technical, typographical, or photographic errors. Cube Book does not warrant that any of the materials are accurate, complete, or current. We may make changes to the materials at any time without notice."
     },
     "links": {
       "title": "External Links",
-      "content": "We have not reviewed all of the sites linked to Anx Reader and are not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Anx Reader."
+      "content": "We have not reviewed all sites linked to Cube Book and are not responsible for the contents of such linked sites. The inclusion of any link does not imply endorsement by Cube Book."
     },
     "modifications": {
       "title": "Modifications to Terms",
-      "content": "Anx Reader may revise these Terms of Use at any time without notice. By using this application, you are agreeing to the current version of these Terms of Use."
+      "content": "Cube Book may revise these Terms of Use at any time without notice. By using this application, you are accepting the current version of these Terms of Use."
     },
     "governingLaw": {
       "title": "Governing Law",
-      "content": "These terms and conditions are governed by and construed in accordance with applicable laws, and any disputes shall be resolved in the appropriate courts."
+      "content": "These terms and conditions are governed by and construed in accordance with applicable laws, and any dispute shall be resolved in the appropriate courts."
     },
     "contactInfo": {
       "title": "Contact Information",
-      "content": "Questions about these Terms of Use should be sent to us at: Email: legal@anxreader.app"
+      "content": "Questions about these Terms of Use should be sent to us at: Email: legal@cubebook.app"
     }
   }
 }

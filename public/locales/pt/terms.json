@@ -1,0 +1,42 @@
+{
+  "title": "Termos de Uso",
+  "lastUpdated": "Última atualização: Abril 2025",
+  "sections": {
+    "agreement": {
+      "title": "Acordo dos Termos",
+      "content": "Ao acessar ou usar a Cube Book, você concorda em ficar vinculado a estes Termos de Uso. Se você não concordar com todos os termos e condições, não poderá acessar o aplicativo."
+    },
+    "useLicense": {
+      "title": "Licença de Uso",
+      "content": "É concedida permissão para baixar e usar temporariamente a Cube Book apenas para uso pessoal e não comercial. Esta é uma concessão de licença, não uma transferência de propriedade. Sob esta licença você não pode: Modificar ou copiar os materiais; Usar os materiais para qualquer propósito comercial; Tentar descompilar ou reverter engenharia de qualquer software contido no aplicativo; Remover quaisquer avisos de direitos autorais ou outros avisos proprietários."
+    },
+    "disclaimer": {
+      "title": "Aviso Legal",
+      "content": "Os materiais na Cube Book são fornecidos 'como estão'. Não oferecemos garantias, expressas ou implícitas, e por este meio renunciamos e negamos todas as outras garantias, incluindo sem limitação, garantias implícitas ou condições de comercialidade, adequação a um propósito particular, ou não violação de propriedade intelectual."
+    },
+    "limitations": {
+      "title": "Limitações",
+      "content": "Em nenhuma circunstância a Cube Book ou seus fornecedores serão responsáveis por quaisquer danos decorrentes do uso ou incapacidade de usar os materiais no aplicativo, mesmo que a Cube Book ou um representante autorizado tenha sido notificado oralmente ou por escrito da possibilidade de tal dano."
+    },
+    "accuracy": {
+      "title": "Precisão dos Materiais",
+      "content": "Os materiais que aparecem na Cube Book podem incluir erros técnicos, tipográficos ou fotográficos. A Cube Book não garante que nenhum dos materiais seja preciso, completo ou atual. Podemos fazer alterações nos materiais a qualquer momento sem aviso prévio."
+    },
+    "links": {
+      "title": "Links Externos",
+      "content": "Não revisamos todos os sites vinculados à Cube Book e não somos responsáveis pelo conteúdo de tais sites vinculados. A inclusão de qualquer link não implica endosso pela Cube Book."
+    },
+    "modifications": {
+      "title": "Modificações aos Termos",
+      "content": "A Cube Book pode revisar estes Termos de Uso a qualquer momento sem aviso prévio. Ao usar este aplicativo, você está aceitando a versão atual destes Termos de Uso."
+    },
+    "governingLaw": {
+      "title": "Lei Aplicável",
+      "content": "Estes termos e condições são regidos e interpretados de acordo com as leis aplicáveis, e qualquer disputa será resolvida nos tribunais apropriados."
+    },
+    "contactInfo": {
+      "title": "Informações de Contato",
+      "content": "Perguntas sobre estes Termos de Uso devem ser enviadas para nós em: E-mail: legal@cubebook.app"
+    }
+  }
+}

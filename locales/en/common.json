@@ -5,7 +5,7 @@
   "subtitle": "Your personal AI reading companion that transforms how you consume content",
   "getStarted": "Get Started",
   "learnMore": "Learn More",
-  "downloadNow": "Download Now",
+  "downloadNow": "Download on Play Store",
   "features": {
     "title": "Features",
     "subtitle": "Everything you need to enhance your reading experience",
@@ -75,5 +75,9 @@
       "description": "Numbers that make you proud. Track your reading streaks, daily minutes, and completion percentages in an absolutely gorgeous, no-nonsense dashboard.",
       "badge": "DATA NERD"
     }
+  },
+  "hero": {
+    "readFaster": "READ FASTER.",
+    "thinkDeeper": "THINK DEEPER."
   }
 }

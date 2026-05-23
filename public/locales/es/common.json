@@ -5,7 +5,7 @@
   "subtitle": "Tu compañero personal de lectura con IA que transforma cómo consumes contenido",
   "getStarted": "Comenzar",
   "learnMore": "Saber Más",
-  "downloadNow": "Descargar Ahora",
+  "downloadNow": "Descargar en Play Store",
   "features": {
     "title": "Características",
     "subtitle": "Todo lo que necesitas para mejorar tu experiencia de lectura",
@@ -53,5 +53,29 @@
   "meta": {
     "title": "Cube Book - Lee Más Rápido con IA",
     "description": "Transforma tu experiencia de lectura con Cube Book. Reconocimiento de voz con IA, construcción de vocabulario y comparación entre idiomas."
+  },
+  "showcase": {
+    "title": "Mira la App",
+    "subtitle": "Descubre cómo Cube Book transforma tu experiencia de lectura",
+    "preview": "APP",
+    "library": {
+      "title": "Tu Biblioteca Personal",
+      "description": "Organiza todos tus libros y documentos en un solo lugar. Lee, marca y guarda tu progreso donde quiera que vayas.",
+      "badge": "LEE"
+    },
+    "aiGuru": {
+      "title": "Gurú de IA",
+      "description": "Pregunta cualquier cosa sobre lo que lees y obtén respuestas instantáneas. Resúmenes, explicaciones y más.",
+      "badge": "PREGUNTA"
+    },
+    "stats": {
+      "title": "Estadísticas de Lectura",
+      "description": "Sigue tu progreso con métricas detalladas. Palabras por minuto, tiempo de lectura y comprensión.",
+      "badge": "MIDE"
+    }
+  },
+  "hero": {
+    "readFaster": "LEE MÁS RÁPIDO.",
+    "thinkDeeper": "COMPRENDE MEJOR."
   }
 }

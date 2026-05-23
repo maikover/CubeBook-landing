@@ -1,0 +1,83 @@
+{
+  "appName": "Cube Book",
+  "appDescription": "より速く読み、より深く理解 - AI搭載のリーディングアシスタント",
+  "tagline": "より速く読み、より深く理解",
+  "subtitle": "コンテンツ消費のあり方を変える、AI搭載のパーソナル読書コンパニオン",
+  "getStarted": "始める",
+  "learnMore": "詳細を見る",
+  "downloadNow": "Play Storeでダウンロード",
+  "features": {
+    "title": "機能",
+    "subtitle": "読書体験を向上させるために 필요한すべて",
+    "speechRecognition": {
+      "title": "リアルタイム音声認識",
+      "description": "高精度で話し言葉を即座にテキストに変換"
+    },
+    "languageComparison": {
+      "title": "言語間比較",
+      "description": "異なる言語のコンテンツを並べて比較"
+    },
+    "vocabularyBuilder": {
+      "title": "スマート語彙ビルダー",
+      "description": "スマートなリマインダーで語彙を構築し強化"
+    },
+    "aiSummaries": {
+      "title": "AI要約",
+      "description": "数秒で任意のコンテンツの簡潔な要約を取得"
+    }
+  },
+  "navigation": {
+    "home": "ホーム",
+    "features": "機能",
+    "download": "ダウンロード",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "language": "言語"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "legal": "法的情報",
+    "contact": "お問い合わせ",
+    "description": "最先端AI技術で読書体験を促進"
+  },
+  "buttons": {
+    "readMore": "続きを読む",
+    "downloadFor": "ダウンロード",
+    "availableOn": "利用可能"
+  },
+  "altText": {
+    "appLogo": "Cube Book ロゴ",
+    "heroImage": "Cube Book インターフェース",
+    "phoneMockup": "Cube Book on スマートフォン"
+  },
+  "meta": {
+    "title": "Cube Book - AIでより速く読む",
+    "description": "Cube Bookで読書体験を変える。AI音声認識、語彙構築、言語間比較。"
+  },
+  "showcase": {
+    "title": "CUBE BOOKの内部",
+    "subtitle": "注意：当社のインターフェースは中毒性があります。",
+    "preview": "プレビュー",
+    "library": {
+      "title": "あなたのライブラリ、解放",
+      "description": "読書ユニバース全体を整理。超ビジュアルな本棚で、読んだ本、終わった本、読みたい本を追跡することは、ページををめくることと同じくらい満足できます。",
+      "badge": "美しいUI"
+    },
+    "aiGuru": {
+      "title": "あなたのパーソナルAIグル",
+      "description": "読書ルーティンに縛られていませんか？当社のAIがあなたの読書履歴を分析し、あなたのスタイルに最適な本を提案します。プロット、キャラクター、深いテーマについての質問にも答えます。",
+      "badge": "スマートAI"
+    },
+    "stats": {
+      "title": "統計を見せよう",
+      "description": "誇りに感じる数字。読書ストリーク、日別分数、完了率をapersolutely Gorgeous、簡潔なダッシュボードで追跡。",
+      "badge": "データオタク"
+    }
+  },
+  "hero": {
+    "readFaster": "より速く読め.",
+    "thinkDeeper": "より深く理解せよ."
+  }
+}

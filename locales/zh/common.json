@@ -1,0 +1,83 @@
+{
+  "appName": "Cube Book",
+  "appDescription": "AI驱动阅读辅助 - 读得更快，理解更深",
+  "tagline": "读得更快，理解更深",
+  "subtitle": "您的个人AI阅读伴侣，改变您消费内容的方式",
+  "getStarted": "开始",
+  "learnMore": "了解更多",
+  "downloadNow": "在Play Store下载",
+  "features": {
+    "title": "功能",
+    "subtitle": "提升阅读体验所需的一切",
+    "speechRecognition": {
+      "title": "实时语音识别",
+      "description": "高精度将口语即时转换为文字"
+    },
+    "languageComparison": {
+      "title": "跨语言比较",
+      "description": "并排比较不同语言的内容"
+    },
+    "vocabularyBuilder": {
+      "title": "智能词汇构建器",
+      "description": "通过智能提醒构建和强化词汇"
+    },
+    "aiSummaries": {
+      "title": "AI摘要",
+      "description": "几秒钟内获得任何内容的简洁摘要"
+    }
+  },
+  "navigation": {
+    "home": "首页",
+    "features": "功能",
+    "download": "下载",
+    "privacy": "隐私政策",
+    "terms": "使用条款",
+    "language": "语言"
+  },
+  "footer": {
+    "rights": "版权所有",
+    "privacy": "隐私政策",
+    "terms": "使用条款",
+    "legal": "法律信息",
+    "contact": "联系方式",
+    "description": "用尖端AI技术提升您的阅读体验"
+  },
+  "buttons": {
+    "readMore": "阅读更多",
+    "downloadFor": "下载",
+    "availableOn": "在以下平台可用"
+  },
+  "altText": {
+    "appLogo": "Cube Book 标志",
+    "heroImage": "Cube Book 界面",
+    "phoneMockup": "Cube Book 在智能手机上"
+  },
+  "meta": {
+    "title": "Cube Book - 用AI读得更快",
+    "description": "用Cube Book改变您的阅读体验。AI语音识别、词汇构建、跨语言比较。"
+  },
+  "showcase": {
+    "title": "CUBE BOOK 内部",
+    "subtitle": "警告：我们的界面极易上瘾。",
+    "preview": "预览",
+    "library": {
+      "title": "你的图书馆，解放",
+      "description": "组织你的整个阅读宇宙。通过我们超视觉的书架，追踪你读过的、读完的、想读的书，就像翻动一页纸一样满足。",
+      "badge": "美丽的界面"
+    },
+    "aiGuru": {
+      "title": "你的个人AI导师",
+      "description": "困在阅读 routine 里？我们的AI分析你的阅读历史，推荐完美匹配你风格的书籍。它还能回答关于情节、角色和深层主题的问题。",
+      "badge": "智能AI"
+    },
+    "stats": {
+      "title": "展示你的统计数据",
+      "description": "让你骄傲的数字。在一个绝对华丽、毫不废话的仪表板上追踪你的阅读连续天数、每日分钟数和完成百分比。",
+      "badge": "数据极客"
+    }
+  },
+  "hero": {
+    "readFaster": "读得更快.",
+    "thinkDeeper": "理解更深."
+  }
+}
