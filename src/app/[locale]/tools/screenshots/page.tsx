@@ -303,7 +303,7 @@ export default function ScreenshotGenerator() {
             return (
             <div key={data.id} className="flex flex-col gap-4">
               <div 
-                ref={el => canvasRefs.current[idx] = el}
+                ref={el => { canvasRefs.current[idx] = el; }}
                 className={`relative ${data.color} border-4 border-black overflow-hidden flex flex-col items-center`}
                 style={{ width: dims.previewWidth, height: dims.previewHeight }}
               >
