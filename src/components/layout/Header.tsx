@@ -5,24 +5,10 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useTranslation } from '@/contexts/TranslationContext';
 
-const languages = [
-  { code: 'en', label: 'EN', name: 'English' },
-  { code: 'es', label: 'ES', name: 'Español' },
-  { code: 'pt', label: 'PT', name: 'Português' },
-  { code: 'fr', label: 'FR', name: 'Français' },
-  { code: 'de', label: 'DE', name: 'Deutsch' },
-  { code: 'it', label: 'IT', name: 'Italiano' },
-  { code: 'ja', label: 'JA', name: '日本語' },
-  { code: 'ko', label: 'KO', name: '한국어' },
-  { code: 'zh', label: 'ZH', name: '中文' },
-  { code: 'ru', label: 'RU', name: 'Русский' }
-];
-
 export default function Header({ locale }: { locale: string }) {
   const { t } = useTranslation();
   const pathname = usePathname();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-  const [langMenuOpen, setLangMenuOpen] = useState(false);
 
   const toggleMobileMenu = () => {
     setMobileMenuOpen(!mobileMenuOpen);
@@ -35,16 +21,12 @@ export default function Header({ locale }: { locale: string }) {
     { href: `/${locale}/terms`, label: t('navigation.terms') }
   ];
 
-  const currentLang = languages.find(l => l.code === locale) || languages[0];
-
-  const switchLocale = locale === 'en' ? 'es' : 'en';
-
   return (
     <header className="sticky top-0 z-50 bg-neo-bg border-b-8 border-black">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-20">
-           {/* Logo */}
-           <Link href={`/${locale}`} className="flex items-center space-x-3 bg-neo-secondary border-4 border-black px-4 py-2 shadow-neo-sm hover:-translate-y-1 hover:shadow-neo-md active:translate-x-1 active:translate-y-1 active:shadow-none transition-all duration-200 -rotate-1 hover:rotate-1">
+          {/* Logo */}
+          <Link href={`/${locale}`} className="flex items-center space-x-3 bg-neo-secondary border-4 border-black px-4 py-2 shadow-neo-sm hover:-translate-y-1 hover:shadow-neo-md active:translate-x-1 active:translate-y-1 active:shadow-none transition-all duration-200 -rotate-1 hover:rotate-1">
             <img 
               src="/logo.png" 
               alt="Cube Book Logo" 
@@ -71,52 +53,23 @@ export default function Header({ locale }: { locale: string }) {
             ))}
           </nav>
 
-          {/* Language Switcher & Mobile Menu Button */}
-          <div className="flex items-center space-x-3">
-            {/* Language Switcher */}
-            <div className="relative">
-              <button
-                onClick={() => setLangMenuOpen(!langMenuOpen)}
-                className="px-4 py-2 text-black font-black uppercase tracking-widest border-4 border-black bg-white shadow-neo-sm hover:bg-neo-muted hover:-translate-y-1 active:translate-x-1 active:translate-y-1 active:shadow-none transition-all duration-100 rotate-1"
-              >
-                {currentLang.label} ▼
-              </button>
-              {langMenuOpen && (
-                <div className="absolute right-0 top-full mt-2 bg-white border-4 border-black shadow-neo-md z-50 min-w-[140px]">
-                  {languages.map((lang) => (
-                    <Link
-                      key={lang.code}
-                      href={`/${lang.code}${pathname.replace(`/${locale}`, '')}`}
-                      onClick={() => setLangMenuOpen(false)}
-                      className={`block px-4 py-2 font-black uppercase tracking-widest border-b-4 border-black transition-all duration-100 hover:bg-neo-secondary ${
-                        lang.code === locale ? 'bg-neo-accent text-white' : 'text-black'
-                      }`}
-                    >
-                      {lang.label} - {lang.name}
-                    </Link>
-                  ))}
-                </div>
-              )}
-            </div>
-
-            {/* Mobile Menu Button */}
-            <button
-              onClick={toggleMobileMenu}
-              className="md:hidden w-12 h-12 border-4 border-black bg-neo-accent shadow-neo-sm flex items-center justify-center
-                        hover:-translate-y-1 hover:shadow-neo-md active:translate-x-1 active:translate-y-1 active:shadow-none transition-all duration-100 text-white"
-              aria-label="Toggle menu"
-            >
-              {mobileMenuOpen ? (
-                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth="3">
-                  <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
-                </svg>
-              ) : (
-                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth="3">
-                  <path strokeLinecap="round" strokeLinejoin="round" d="M4 6h16M4 12h16M4 18h16" />
-                </svg>
-              )}
-            </button>
-          </div>
+          {/* Mobile Menu Button */}
+          <button
+            onClick={toggleMobileMenu}
+            className="md:hidden w-12 h-12 border-4 border-black bg-neo-accent shadow-neo-sm flex items-center justify-center
+                      hover:-translate-y-1 hover:shadow-neo-md active:translate-x-1 active:translate-y-1 active:shadow-none transition-all duration-100 text-white"
+            aria-label="Toggle menu"
+          >
+            {mobileMenuOpen ? (
+              <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth="3">
+                <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
+              </svg>
+            ) : (
+              <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth="3">
+                <path strokeLinecap="round" strokeLinejoin="round" d="M4 6h16M4 12h16M4 18h16" />
+              </svg>
+            )}
+          </button>
         </div>
 
         {/* Mobile Navigation */}
