@@ -79,5 +79,59 @@
   "hero": {
     "readFaster": "LEE MÁS RÁPIDO.",
     "thinkDeeper": "COMPRENDE MEJOR."
+  },
+  "screenshots": {
+    "pageTitle": "Generador de Capturas",
+    "pageSubtitle": "Genera capturas de Play Store para Celular y Tablet",
+    "downloadAll": "Descargar Todo",
+    "devicePhone": "Celular (9:16)",
+    "deviceTablet": "Tablet 7\" (9:16)",
+    "featureGraphic": "Gráfico de Funciones",
+    "featureGraphicSize": "1024x500",
+    "downloadFeatureGraphic": "Descargar Gráfico de Funciones",
+    "specs": "Especificaciones del Gráfico",
+    "specFormat": "Formato: PNG",
+    "specMaxSize": "Tamaño máximo: 15 MB",
+    "specDimensions": "Dimensiones: 1024px por 500px",
+    "specAdapts": "El contenido se adapta al idioma seleccionado",
+    "screenshotsTitle": "Capturas",
+    "downloadPng": "Descargar PNG",
+    "phoneLabel": "Celular",
+    "tabletLabel": "Tablet",
+    "appTagline": "Tu biblioteca digital y lector IA definitivo",
+    "appKeywords": ["Read", "Listen", "Analyze"],
+    "appKeywordsEs": ["Lee", "Escucha", "Analiza"],
+    "items": [
+      {
+        "title": "Organiza tu biblioteca digital",
+        "subtitle": "Control total de tu colección con un estilo único.",
+        "action": "ORGANIZA"
+      },
+      {
+        "title": "Lectura sin distracciones",
+        "subtitle": "Experiencia inmersiva diseñada para el máximo enfoque.",
+        "action": "LEE"
+      },
+      {
+        "title": "Escucha donde sea con IA",
+        "subtitle": "Convierte cualquier libro en audiolibro con voces naturales.",
+        "action": "ESCUCHA"
+      },
+      {
+        "title": "Domina tus hábitos",
+        "subtitle": "Estadísticas avanzadas para ayudarte a alcanzar tus metas.",
+        "action": "SIGUE"
+      },
+      {
+        "title": "Chatea con tus libros",
+        "subtitle": "Haz preguntas, resume y analiza textos con potente IA.",
+        "action": "ANALIZA"
+      },
+      {
+        "title": "Recomendaciones",
+        "subtitle": "Descubre tu próxima aventura basada en tus gustos únicos.",
+        "action": "DESCUBRE"
+      }
+    ]
   }
 }

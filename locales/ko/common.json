@@ -4,26 +4,26 @@
   "tagline": "더 빨리 읽고, 더 많이 이해하세요",
   "subtitle": "콘텐츠 소비 방식을 변화시키는 개인 AI 독서 동반자",
   "getStarted": "시작하기",
-  "learnMore": "자세히 알아보기",
+  "learnMore": "자세히 보기",
   "downloadNow": "Play Store에서 다운로드",
   "features": {
     "title": "기능",
     "subtitle": "독서 경험을 향상시키는 데 필요한 모든 것",
     "speechRecognition": {
       "title": "실시간 음성 인식",
-      "description": "높은 정확도로 말하기 단어를 즉시 텍스트로 변환"
+      "description": "높은 정확도로 말한 단어를 즉시 텍스트로 변환"
     },
     "languageComparison": {
       "title": "언어 간 비교",
-      "description": "여러 언어로 된 콘텐츠를 나란히 비교"
+      "description": "다른 언어의 콘텐츠를 나란히 비교"
     },
     "vocabularyBuilder": {
       "title": "스마트 어휘 빌더",
       "description": "지능형 알림으로 어휘를 구축하고 강화"
     },
     "aiSummaries": {
-      "title": "AI 요약",
-      "description": "몇 초 만에 모든 콘텐츠의 간결한 요약 제공"
+      "title": "AI 기반 요약",
+      "description": "수초 만에 모든 콘텐츠의 간결한 요약 얻기"
     }
   },
   "navigation": {
@@ -35,10 +35,10 @@
     "language": "언어"
   },
   "footer": {
-    "rights": "All rights reserved",
+    "rights": "모든 권리 보유",
     "privacy": "개인정보 보호정책",
     "terms": "이용약관",
-    "legal": "법적 정보",
+    "legal": "법적 고지",
     "contact": "연락처",
     "description": "최첨단 AI 기술로 독서 경험 향상"
   },
@@ -50,34 +50,88 @@
   "altText": {
     "appLogo": "Cube Book 로고",
     "heroImage": "Cube Book 인터페이스",
-    "phoneMockup": "Cube Book 스마트폰"
+    "phoneMockup": "스마트폰의 Cube Book"
   },
   "meta": {
     "title": "Cube Book - AI로 더 빨리 읽기",
-    "description": "Cube Book로 독서 경험을 변화시키세요. AI 음성 인식, 어휘 구축, 언어 간 비교."
+    "description": "Cube Book으로 독서 경험을 변화시키세요. AI 음성 인식, 어휘 구축, 언어 간 비교."
   },
   "showcase": {
     "title": "CUBE BOOK 내부",
-    "subtitle": "경고: 당사의 인터페이스는 매우 중독성이 있습니다.",
-    "preview": "미리보기",
+    "subtitle": "주의: 우리의 인터페이스는 매우 중독적입니다.",
+    "preview": "앱 미리보기",
     "library": {
-      "title": "당신의 라이브러리, 해방됨",
-      "description": "전체 독서 유니버스를 organizes. 초시각적인 책장으로 내가 읽은 것, 끝낸 것, 읽고 싶은 것을 추적하는 것은 실제 페이지를 넘기는 것만큼 만족스럽습니다.",
+      "title": "당신의 도서관, 얽매임 없이",
+      "description": "독서의 모든 세계를 정리하세요. 초실감 서재로 읽은 것, 끝낸 것, 읽고 싶은 것을 추적하는 것은 실제 페이지를 넘기는 것처럼 만족스럽습니다.",
       "badge": "아름다운 UI"
     },
     "aiGuru": {
       "title": "당신의 개인 AI 구루",
-      "description": "독서 루틴에 갇혔나요? 당사의 AI가 당신의 독서 기록을 분석하고 당신의 스타일에 완벽히 맞는 책을 제안합니다. 줄거리, 캐릭터, 깊은 주제에 대한 질문에도 답변합니다.",
+      "description": "독서 루틴에 얽매여 계신가요? 우리의 AI가 독서 기록을 분석하고 당신의 취향에 완벽히 맞는 책을 제안합니다. 줄거리, 인물, 깊은 주제에 대한 질문에도 답변합니다.",
       "badge": "스마트 AI"
     },
     "stats": {
-      "title": "당신의 통계를 자랑하세요",
-      "description": "자랑스러운 숫자. 독서 연속 기록, 일일 분, 완료율을 absolutely gorgeous, 간단한 대시보드에서 추적하세요.",
+      "title": "통계를誇耀하세요",
+      "description": "자부심을 느끼는 숫자들. 읽기 연속 기록, 일일 분, 완료율을 абсолютно прекрасный 대시보드에서 추적하세요.",
       "badge": "데이터 괴짜"
     }
   },
   "hero": {
-    "readFaster": "더 빨리 읽어라.",
-    "thinkDeeper": "더 깊이 이해하라."
+    "readFaster": "더 빨리 읽으세요.",
+    "thinkDeeper": "더 깊이 이해하세요."
+  },
+  "screenshots": {
+    "pageTitle": "스크린샷 생성기",
+    "pageSubtitle": "스마트폰 및 태블릿용 Play Store 스크린샷 생성",
+    "downloadAll": "모두 다운로드",
+    "devicePhone": "스마트폰 (9:16)",
+    "deviceTablet": "태블릿 7\" (9:16)",
+    "featureGraphic": "기능 그래픽",
+    "featureGraphicSize": "1024x500",
+    "downloadFeatureGraphic": "기능 그래픽 다운로드",
+    "specs": "기능 그래픽 사양",
+    "specFormat": "형식: PNG",
+    "specMaxSize": "최대 크기: 15 MB",
+    "specDimensions": "크기: 1024px × 500px",
+    "specAdapts": "콘텐츠가 선택한 언어에 맞게 조정됩니다",
+    "screenshotsTitle": "스크린샷",
+    "downloadPng": "PNG 다운로드",
+    "phoneLabel": "스마트폰",
+    "tabletLabel": "태블릿",
+    "appTagline": "당신의 궁극적 디지털 도서관 및 AI 리더",
+    "appKeywords": ["Read", "Listen", "Analyze"],
+    "appKeywordsEs": ["읽기", "듣기", "분석"],
+    "items": [
+      {
+        "title": "디지털 도서관 정리",
+        "subtitle": "독특한 스타일로 컬렉션 전체를 완벽히 통제.",
+        "action": "정리"
+      },
+      {
+        "title": "방해 없이 읽기",
+        "subtitle": "좋아하는 이야기에 집중할 수 있도록 설계된 몰입형 경험.",
+        "action": "읽기"
+      },
+      {
+        "title": "AI로 어디서나 듣기",
+        "subtitle": "자연스러운 음성으로 любую 本을 오디오북으로 변환.",
+        "action": "듣기"
+      },
+      {
+        "title": "독서 습관 마스터",
+        "subtitle": "목표 달성을 돕는 상세한 통찰력과 고급 통계.",
+        "action": "추적"
+      },
+      {
+        "title": "책과 채팅",
+        "subtitle": "질문하고, 챕터를 요약하고, 강력한 AI로 텍스트 분석.",
+        "action": "분석"
+      },
+      {
+        "title": "스마트 추천",
+        "subtitle": "독서 기록과 취향에 기반하여 다음 모험을 발견.",
+        "action": "발견"
+      }
+    ]
   }
 }

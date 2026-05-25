@@ -4,26 +4,26 @@
   "tagline": "Lesen Sie schneller, verstehen Sie mehr",
   "subtitle": "Ihr persönlicher KI-Lesebegleiter, der transformiert, wie Sie Inhalte konsumieren",
   "getStarted": "Loslegen",
-  "learnMore": "Mehr Erfahren",
-  "downloadNow": "Im Play Store Herunterladen",
+  "learnMore": "Mehr erfahren",
+  "downloadNow": "Auf Play Store herunterladen",
   "features": {
     "title": "Funktionen",
-    "subtitle": "Alles was Sie brauchen um Ihr Leseerlebnis zu verbessern",
+    "subtitle": "Alles, was Sie brauchen, um Ihr Leseerlebnis zu verbessern",
     "speechRecognition": {
       "title": "Echtzeit-Spracherkennung",
-      "description": "Wandeln Sie gesprochene Worte mit hoher Genauigkeit sofort in Text um"
+      "description": "Wandeln Sie gesprochene Worte sofort mit hoher Genauigkeit in Text um"
     },
     "languageComparison": {
       "title": "Sprachübergreifender Vergleich",
-      "description": "Vergleichen Sie Inhalte in verschiedenen Sprachen nebeneinander"
+      "description": "Vergleichen Sie Inhalte in verschiedenen Sprachen Seite an Seite"
     },
     "vocabularyBuilder": {
       "title": "Intelligenter Vokabeltrainer",
-      "description": "Bauen Sie Ihr Vokabular mit intelligenten Hinweisen auf und stärken Sie es"
+      "description": "Builden und verstärken Sie Ihren Wortschatz mit intelligenten Erinnerungen"
     },
     "aiSummaries": {
-      "title": "KI-Zusammenfassungen",
-      "description": "Erhalten Sie in Sekunden prägnante Zusammenfassungen beliebiger Inhalte"
+      "title": "KI-gestützte Zusammenfassungen",
+      "description": "Erhalten Sie prägnante Zusammenfassungen von beliebigem Inhalt in Sekunden"
     }
   },
   "navigation": {
@@ -40,10 +40,10 @@
     "terms": "Nutzungsbedingungen",
     "legal": "Rechtliches",
     "contact": "Kontakt",
-    "description": "Verbesserung Ihres Leseerlebnisses mit hochmoderner KI-Technologie"
+    "description": "Verbessern Sie Ihr Leseerlebnis mit modernster KI-Technologie"
   },
   "buttons": {
-    "readMore": "Mehr Lesen",
+    "readMore": "Mehr lesen",
     "downloadFor": "Herunterladen für",
     "availableOn": "Verfügbar auf"
   },
@@ -57,27 +57,81 @@
     "description": "Transformieren Sie Ihr Leseerlebnis mit Cube Book. KI-Spracherkennung, Vokabelaufbau und sprachübergreifender Vergleich."
   },
   "showcase": {
-    "title": "INNENANSICHT VON CUBE BOOK",
+    "title": "INNENANSICHT CUBE BOOK",
     "subtitle": "Warnung: Unsere Oberfläche ist hochgradig süchtig machend.",
-    "preview": "VORSCHAU",
+    "preview": "APP-VORSCHAU",
     "library": {
-      "title": "IHRE BIBLIOTHEK, ENTFESSELT",
-      "description": "Organisieren Sie Ihr gesamtes Lesuniversum. Mit unserem ultra-visuellen Bücherregal ist es genauso befriedigend zu verfolgen, was Sie lesen, was Sie beendet haben und was Sie lesen möchten, wie eine physische Seite umzublättern.",
+      "title": "IHRE BIBLIOTHEK, UNGEBUNDEN",
+      "description": "Organisieren Sie Ihr gesamtes Leseuniversum. Mit unserem ultra-visuellen Bücherregal ist das Verfolgen von Gelesenem, Beendetem und Geplantem so befriedigend wie das Umblättern einer physischen Seite.",
       "badge": "SCHÖNE UI"
     },
     "aiGuru": {
       "title": "IHR PERSÖNLICHER KI-GURU",
-      "description": "In einer Leseroutine feststecken? Unsere KI analysiert Ihren Leseverlauf und schlägt Bücher vor, die perfekt zu Ihrem Stil passen. Sie beantwortet sogar Fragen zu Handlung, Charakteren und tiefen Themen.",
-      "badge": "INTELLIGENTE KI"
+      "description": "In einer Leseroutine festgefahren? Unsere KI analysiert Ihren Verlauf und schlägt Bücher vor, die perfekt zu Ihrem Stil passen. Sie beantwortet sogar Fragen zu Handlung, Charakteren und tiefen Themen.",
+      "badge": "SMARTE KI"
     },
     "stats": {
-      "title": "ZEIGEN SIE IHRE STATISTIKEN",
-      "description": "Zahlen, die Sie stolz machen. Verfolgen Sie Ihre Leseserien, täglichen Minuten und Abschlussprozente in einem absolut schönen, schnörkellosen Dashboard.",
+      "title": "PROTOKOLLIEREN SIE IHRE STATISTIKEN",
+      "description": "Zahlen, auf die Sie stolz sein können. Verfolgen Sie Ihre Serien, täglichen Minuten und Abschlussprozente in einem absolut schönen, schnörkellosen Dashboard.",
       "badge": "DATEN-NERD"
     }
   },
   "hero": {
     "readFaster": "LESEN SIE SCHNELLER.",
     "thinkDeeper": "VERSTEHEN SIE BESSER."
+  },
+  "screenshots": {
+    "pageTitle": "Screenshot-Generator",
+    "pageSubtitle": "Erstellen Sie Play Store Screenshots für Telefon und Tablet",
+    "downloadAll": "Alle herunterladen",
+    "devicePhone": "Telefon (9:16)",
+    "deviceTablet": "Tablet 7\" (9:16)",
+    "featureGraphic": "Feature-Grafik",
+    "featureGraphicSize": "1024x500",
+    "downloadFeatureGraphic": "Feature-Grafik herunterladen",
+    "specs": "Feature-Grafik Spezifikationen",
+    "specFormat": "Format: PNG",
+    "specMaxSize": "Max. Größe: 15 MB",
+    "specDimensions": "Abmessungen: 1024px mal 500px",
+    "specAdapts": "Inhalt passt sich der ausgewählten Sprache an",
+    "screenshotsTitle": "Screenshots",
+    "downloadPng": "PNG herunterladen",
+    "phoneLabel": "Telefon",
+    "tabletLabel": "Tablet",
+    "appTagline": "Ihre ultimative digitale Bibliothek und KI-Reader",
+    "appKeywords": ["Read", "Listen", "Analyze"],
+    "appKeywordsEs": ["Lies", "Hör zu", "Analysiere"],
+    "items": [
+      {
+        "title": "Organisieren Sie Ihre digitale Bibliothek",
+        "subtitle": "Vollständige Kontrolle über Ihre Sammlung mit einem einzigartigen Stil.",
+        "action": "ORGANISIEREN"
+      },
+      {
+        "title": "Lesen ohne Ablenkungen",
+        "subtitle": "Immersives Erlebnis für maximale Fokussierung auf Ihre Lieblingsgeschichten.",
+        "action": "LESEN"
+      },
+      {
+        "title": "Überall mit KI zuhören",
+        "subtitle": "Verwandeln Sie jedes Buch in ein Hörbuch mit natürlichen Stimmen.",
+        "action": "HÖREN"
+      },
+      {
+        "title": "Meistern Sie Ihre Lesegewohnheiten",
+        "subtitle": "Detaillierte Einblicke und erweiterte Statistiken zur Zielerreichung.",
+        "action": "VERFOLGEN"
+      },
+      {
+        "title": "Chatten Sie mit Ihren Büchern",
+        "subtitle": "Stellen Sie Fragen, fassen Sie Kapitel zusammen und analysieren Sie Texte mit unserer KI.",
+        "action": "ANALYSIEREN"
+      },
+      {
+        "title": "Intelligente Empfehlungen",
+        "subtitle": "Entdecken Sie Ihr nächstes Abenteuer basierend auf Ihrem einzigartigen Lesegeschmack.",
+        "action": "ENTDECKEN"
+      }
+    ]
   }
 }

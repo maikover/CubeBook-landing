@@ -38,6 +38,8 @@
     "rights": "Todos los derechos reservados",
     "privacy": "Política de Privacidad",
     "terms": "Términos de Uso",
+    "legal": "Legal",
+    "contact": "Contacto",
     "description": "Mejorando tu experiencia de lectura con tecnología de IA de vanguardia"
   },
   "buttons": {
@@ -55,27 +57,81 @@
     "description": "Transforma tu experiencia de lectura con Cube Book. Reconocimiento de voz con IA, construcción de vocabulario y comparación entre idiomas."
   },
   "showcase": {
-    "title": "Mira la App",
-    "subtitle": "Descubre cómo Cube Book transforma tu experiencia de lectura",
-    "preview": "APP",
+    "title": "DENTRO DE CUBE BOOK",
+    "subtitle": "Advertencia: Nuestra interfaz es altamente adictiva.",
+    "preview": "VISTA PREVIA",
     "library": {
-      "title": "Tu Biblioteca Personal",
-      "description": "Organiza todos tus libros y documentos en un solo lugar. Lee, marca y guarda tu progreso donde quiera que vayas.",
-      "badge": "LEE"
+      "title": "TU BIBLIOTECA, SIN ATADURAS",
+      "description": "Organiza todo tu universo de lectura. Con nuestra estantería ultra-visual, rastrear lo que lees, lo que terminaste y lo que quieres leer es tan satisfactorio como pasar una página física.",
+      "badge": "INTERFAZ INCREÍBLE"
     },
     "aiGuru": {
-      "title": "Gurú de IA",
-      "description": "Pregunta cualquier cosa sobre lo que lees y obtén respuestas instantáneas. Resúmenes, explicaciones y más.",
-      "badge": "PREGUNTA"
+      "title": "TU GURÚ PERSONAL DE IA",
+      "description": "¿Atascado en una rutina de lectura? Nuestra IA analiza tu historial y sugiere libros que encajan perfectamente con tu estilo. Responde preguntas sobre la trama, personajes y temas profundos.",
+      "badge": "IA INTELIGENTE"
     },
     "stats": {
-      "title": "Estadísticas de Lectura",
-      "description": "Sigue tu progreso con métricas detalladas. Palabras por minuto, tiempo de lectura y comprensión.",
-      "badge": "MIDE"
+      "title": "PRESUME TUS ESTADÍSTICAS",
+      "description": "Números que te hacen sentir orgulloso. Rastrea tus rachas, minutos diarios y porcentajes de completado en un panel absolutamente hermoso y sin rodeos.",
+      "badge": "EXPERTO EN DATOS"
     }
   },
   "hero": {
     "readFaster": "LEE MÁS RÁPIDO.",
     "thinkDeeper": "COMPRENDE MEJOR."
+  },
+  "screenshots": {
+    "pageTitle": "Generador de Capturas",
+    "pageSubtitle": "Genera capturas de Play Store para Celular y Tablet",
+    "downloadAll": "Descargar Todo",
+    "devicePhone": "Celular (9:16)",
+    "deviceTablet": "Tablet 7\" (9:16)",
+    "featureGraphic": "Gráfico de Funciones",
+    "featureGraphicSize": "1024x500",
+    "downloadFeatureGraphic": "Descargar Gráfico de Funciones",
+    "specs": "Especificaciones del Gráfico",
+    "specFormat": "Formato: PNG",
+    "specMaxSize": "Tamaño máximo: 15 MB",
+    "specDimensions": "Dimensiones: 1024px por 500px",
+    "specAdapts": "El contenido se adapta al idioma seleccionado",
+    "screenshotsTitle": "Capturas",
+    "downloadPng": "Descargar PNG",
+    "phoneLabel": "Celular",
+    "tabletLabel": "Tablet",
+    "appTagline": "Tu biblioteca digital y lector IA definitivo",
+    "appKeywords": ["Read", "Listen", "Analyze"],
+    "appKeywordsEs": ["Lee", "Escucha", "Analiza"],
+    "items": [
+      {
+        "title": "Organiza tu biblioteca digital",
+        "subtitle": "Control total de tu colección con un estilo único.",
+        "action": "ORGANIZA"
+      },
+      {
+        "title": "Lectura sin distracciones",
+        "subtitle": "Experiencia inmersiva diseñada para el máximo enfoque.",
+        "action": "LEE"
+      },
+      {
+        "title": "Escucha donde sea con IA",
+        "subtitle": "Convierte cualquier libro en audiolibro con voces naturales.",
+        "action": "ESCUCHA"
+      },
+      {
+        "title": "Domina tus hábitos",
+        "subtitle": "Estadísticas avanzadas para ayudarte a alcanzar tus metas.",
+        "action": "SIGUE"
+      },
+      {
+        "title": "Chatea con tus libros",
+        "subtitle": "Haz preguntas, resume y analiza textos con potente IA.",
+        "action": "ANALIZA"
+      },
+      {
+        "title": "Recomendaciones",
+        "subtitle": "Descubre tu próxima aventura basada en tus gustos únicos.",
+        "action": "DESCUBRE"
+      }
+    ]
   }
 }

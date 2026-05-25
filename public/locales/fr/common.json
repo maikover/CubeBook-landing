@@ -4,7 +4,7 @@
   "tagline": "Lisez plus vite, comprenez mieux",
   "subtitle": "Votre compagnon de lecture personnel alimenté par l'IA qui transforme votre façon de consommer le contenu",
   "getStarted": "Commencer",
-  "learnMore": "En Savoir Plus",
+  "learnMore": "En savoir plus",
   "downloadNow": "Télécharger sur Play Store",
   "features": {
     "title": "Fonctionnalités",
@@ -15,7 +15,7 @@
     },
     "languageComparison": {
       "title": "Comparaison Entre Langues",
-      "description": "Comparez du contenu dans différentes langues côte à côte"
+      "description": "Comparez le contenu dans différentes langues côte à côte"
     },
     "vocabularyBuilder": {
       "title": "Constructeur de Vocabulaire Intelligent",
@@ -38,7 +38,7 @@
     "rights": "Tous droits réservés",
     "privacy": "Politique de Confidentialité",
     "terms": "Conditions d'Utilisation",
-    "legal": "Légal",
+    "legal": "Mentions Légales",
     "contact": "Contact",
     "description": "Améliorant votre expérience de lecture avec une technologie IA de pointe"
   },
@@ -58,26 +58,80 @@
   },
   "showcase": {
     "title": "À L'INTÉRIEUR DE CUBE BOOK",
-    "subtitle": "Avertissement: Notre interface est hautement addictive.",
-    "preview": "APERÇU",
+    "subtitle": "Attention: Notre interface est hautement addictive.",
+    "preview": "APERÇU DE L'APP",
     "library": {
-      "title": "VOTRE BIBLIOTHÈQUE, SANS LIMITES",
-      "description": "Organisez tout votre univers de lecture. Avec notre bibliothèque ultra-visuelle, suivre ce que vous lisez, ce que vous avez terminé et ce que vous voulez lire est aussi satisfaisant que tourner une page physique.",
-      "badge": "BELLE UI"
+      "title": "VOTRE BIBLIOTHÈQUE, SANS ATTACHES",
+      "description": "Organisez tout votre univers de lecture. Avec notre bibliothèque ultra-visuelle, suivre ce que vous lisez, ce que vous avez terminé et ce que vous voulez lire est aussi satisfaisant que de tourner une page physique.",
+      "badge": "BEAUTIFUL UI"
     },
     "aiGuru": {
       "title": "VOTRE GURU IA PERSONNEL",
-      "description": "Bloqué dans une routine de lecture? Notre IA analyse votre historique et suggère des livres qui correspondent parfaitement à votre style. Il répond aux questions sur l'intrigue, les personnages et les thèmes profonds.",
+      "description": "Coincé dans une routine de lecture? Notre IA analyse votre historique et suggère des livres qui correspondent parfaitement à votre style. Il répond même aux questions sur l'intrigue, les personnages et les thèmes profonds.",
       "badge": "IA INTELLIGENTE"
     },
     "stats": {
       "title": "AFFICHEZ VOS STATISTIQUES",
-      "description": "Des chiffres qui vous rendent fier. Suivez vos séries, minutes quotidiennes et pourcentages terminés dans un tableau de bord magnifique et sans fioritures.",
-      "badge": "NERD DES DONNÉES"
+      "description": "Des chiffres qui vous rendent fier. Suivez vos séries, vos minutes quotidiennes et vos pourcentages de complétion dans un tableau de bord absolument magnifique et sans fioritures.",
+      "badge": "DATA NERD"
     }
   },
   "hero": {
     "readFaster": "LISEZ PLUS VITE.",
     "thinkDeeper": "COMPRENEZ MIEUX."
+  },
+  "screenshots": {
+    "pageTitle": "Générateur de Captures",
+    "pageSubtitle": "Générez des captures Play Store pour Téléphone et Tablette",
+    "downloadAll": "Tout Télécharger",
+    "devicePhone": "Téléphone (9:16)",
+    "deviceTablet": "Tablette 7\" (9:16)",
+    "featureGraphic": "Graphique de Fonctionnalités",
+    "featureGraphicSize": "1024x500",
+    "downloadFeatureGraphic": "Télécharger le Graphique",
+    "specs": "Spécifications du Graphique",
+    "specFormat": "Format: PNG",
+    "specMaxSize": "Taille max: 15 MB",
+    "specDimensions": "Dimensions: 1024px par 500px",
+    "specAdapts": "Le contenu s'adapte à la langue sélectionnée",
+    "screenshotsTitle": "Captures",
+    "downloadPng": "Télécharger PNG",
+    "phoneLabel": "Téléphone",
+    "tabletLabel": "Tablette",
+    "appTagline": "Votre bibliothèque numérique et lecteur IA définitif",
+    "appKeywords": ["Read", "Listen", "Analyze"],
+    "appKeywordsEs": ["Lis", "Écoute", "Analyse"],
+    "items": [
+      {
+        "title": "Organisez votre bibliothèque numérique",
+        "subtitle": "Contrôle total de votre collection avec un style unique.",
+        "action": "ORGANISEZ"
+      },
+      {
+        "title": "Lecture sans distractions",
+        "subtitle": "Expérience immersive conçue pour une concentration maximale sur vos histoires préférées.",
+        "action": "LISEZ"
+      },
+      {
+        "title": "Écoutez n'importe où avec l'IA",
+        "subtitle": "Transformez n'importe quel livre en audiolivre avec des voix naturelles.",
+        "action": "ÉCOUTEZ"
+      },
+      {
+        "title": "Maîtrisez vos habitudes de lecture",
+        "subtitle": "Insights détaillés et statistiques avancées pour vous aider à atteindre vos objectifs.",
+        "action": "SUIVEZ"
+      },
+      {
+        "title": "Discutez avec vos livres",
+        "subtitle": "Posez des questions, résumez des chapitres et analysez du texte avec notre IA puissante.",
+        "action": "ANALYSEZ"
+      },
+      {
+        "title": "Recommandations intelligentes",
+        "subtitle": "Découvrez votre prochaine aventure basée sur votre historique et vos goûts uniques.",
+        "action": "DÉCOUVREZ"
+      }
+    ]
   }
 }

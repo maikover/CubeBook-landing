@@ -79,5 +79,59 @@
   "hero": {
     "readFaster": "READ FASTER.",
     "thinkDeeper": "THINK DEEPER."
+  },
+  "screenshots": {
+    "pageTitle": "Screenshot Generator",
+    "pageSubtitle": "Generate Play Store Screenshots for Phone & Tablet",
+    "downloadAll": "Download All",
+    "devicePhone": "Phone (9:16)",
+    "deviceTablet": "Tablet 7\" (9:16)",
+    "featureGraphic": "Feature Graphic",
+    "featureGraphicSize": "1024x500",
+    "downloadFeatureGraphic": "Download Feature Graphic",
+    "specs": "Feature Graphic Specs",
+    "specFormat": "Format: PNG",
+    "specMaxSize": "Max Size: 15 MB",
+    "specDimensions": "Dimensions: 1024px by 500px",
+    "specAdapts": "Content adapts to selected language",
+    "screenshotsTitle": "Screenshots",
+    "downloadPng": "Download PNG",
+    "phoneLabel": "Celular",
+    "tabletLabel": "Tablet",
+    "appTagline": "Your Ultimate Digital Library & AI Reader",
+    "appKeywords": ["Read", "Listen", "Analyze"],
+    "appKeywordsEs": ["Lee", "Escucha", "Analiza"],
+    "items": [
+      {
+        "title": "Organize Your Digital Library",
+        "subtitle": "Total control over your collection with a bold, unique interface.",
+        "action": "ORGANIZE"
+      },
+      {
+        "title": "Read Without Distractions",
+        "subtitle": "Immersive experience designed for maximum focus on your favorite stories.",
+        "action": "READ"
+      },
+      {
+        "title": "Listen Anywhere with AI",
+        "subtitle": "Transform any book into an audiobook with natural Text-to-Speech voices.",
+        "action": "LISTEN"
+      },
+      {
+        "title": "Master Your Reading Habits",
+        "subtitle": "Detailed insights and advanced statistics to help you reach your goals.",
+        "action": "TRACK"
+      },
+      {
+        "title": "Chat with Your Books",
+        "subtitle": "Ask questions, summarize chapters, and analyze text with our powerful AI.",
+        "action": "ANALYZE"
+      },
+      {
+        "title": "Smart Recommendations",
+        "subtitle": "Discover your next adventure based on your unique reading history and tastes.",
+        "action": "DISCOVER"
+      }
+    ]
   }
 }

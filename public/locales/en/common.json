@@ -38,6 +38,8 @@
     "rights": "All rights reserved",
     "privacy": "Privacy Policy",
     "terms": "Terms of Use",
+    "legal": "Legal",
+    "contact": "Contact",
     "description": "Enhancing your reading experience with cutting-edge AI technology"
   },
   "buttons": {
@@ -55,27 +57,81 @@
     "description": "Transform your reading experience with Cube Book. AI-powered speech recognition, vocabulary building, and cross-language comparison."
   },
   "showcase": {
-    "title": "See the App",
-    "subtitle": "Discover how Cube Book transforms your reading experience",
-    "preview": "APP",
+    "title": "INSIDE CUBE BOOK",
+    "subtitle": "Warning: Our interface is highly addictive.",
+    "preview": "APP PREVIEW",
     "library": {
-      "title": "Your Personal Library",
-      "description": "Organize all your books and documents in one place. Read, highlight, and save your progress wherever you go.",
-      "badge": "READ"
+      "title": "YOUR LIBRARY, UNCHAINED",
+      "description": "Organize your entire reading universe. With our ultra-visual bookshelf, tracking what you read, what you finished, and what you want to read is as satisfying as turning a physical page.",
+      "badge": "BEAUTIFUL UI"
     },
     "aiGuru": {
-      "title": "AI Guru",
-      "description": "Ask anything about what you're reading and get instant answers. Summaries, explanations, and more.",
-      "badge": "ASK"
+      "title": "YOUR PERSONAL AI GURU",
+      "description": "Stuck in a reading rut? Our AI analyzes your reading history and suggests books that perfectly match your vibe. It even answers questions about the plot, characters, and deeply hidden themes.",
+      "badge": "SMART AI"
     },
     "stats": {
-      "title": "Reading Statistics",
-      "description": "Track your progress with detailed metrics. Words per minute, reading time, and comprehension.",
-      "badge": "TRACK"
+      "title": "FLEX YOUR STATS",
+      "description": "Numbers that make you proud. Track your reading streaks, daily minutes, and completion percentages in an absolutely gorgeous, no-nonsense dashboard.",
+      "badge": "DATA NERD"
     }
   },
   "hero": {
     "readFaster": "READ FASTER.",
     "thinkDeeper": "THINK DEEPER."
+  },
+  "screenshots": {
+    "pageTitle": "Screenshot Generator",
+    "pageSubtitle": "Generate Play Store Screenshots for Phone & Tablet",
+    "downloadAll": "Download All",
+    "devicePhone": "Phone (9:16)",
+    "deviceTablet": "Tablet 7\" (9:16)",
+    "featureGraphic": "Feature Graphic",
+    "featureGraphicSize": "1024x500",
+    "downloadFeatureGraphic": "Download Feature Graphic",
+    "specs": "Feature Graphic Specs",
+    "specFormat": "Format: PNG",
+    "specMaxSize": "Max Size: 15 MB",
+    "specDimensions": "Dimensions: 1024px by 500px",
+    "specAdapts": "Content adapts to selected language",
+    "screenshotsTitle": "Screenshots",
+    "downloadPng": "Download PNG",
+    "phoneLabel": "Celular",
+    "tabletLabel": "Tablet",
+    "appTagline": "Your Ultimate Digital Library & AI Reader",
+    "appKeywords": ["Read", "Listen", "Analyze"],
+    "appKeywordsEs": ["Lee", "Escucha", "Analiza"],
+    "items": [
+      {
+        "title": "Organize Your Digital Library",
+        "subtitle": "Total control over your collection with a bold, unique interface.",
+        "action": "ORGANIZE"
+      },
+      {
+        "title": "Read Without Distractions",
+        "subtitle": "Immersive experience designed for maximum focus on your favorite stories.",
+        "action": "READ"
+      },
+      {
+        "title": "Listen Anywhere with AI",
+        "subtitle": "Transform any book into an audiobook with natural Text-to-Speech voices.",
+        "action": "LISTEN"
+      },
+      {
+        "title": "Master Your Reading Habits",
+        "subtitle": "Detailed insights and advanced statistics to help you reach your goals.",
+        "action": "TRACK"
+      },
+      {
+        "title": "Chat with Your Books",
+        "subtitle": "Ask questions, summarize chapters, and analyze text with our powerful AI.",
+        "action": "ANALYZE"
+      },
+      {
+        "title": "Smart Recommendations",
+        "subtitle": "Discover your next adventure based on your unique reading history and tastes.",
+        "action": "DISCOVER"
+      }
+    ]
   }
 }

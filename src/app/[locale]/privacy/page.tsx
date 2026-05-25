@@ -1,5 +1,7 @@
 import { Card } from '@/components/ui';
 
+const locales = ['en', 'es', 'pt', 'fr', 'de', 'it', 'ja', 'ko', 'zh', 'ru'];
+
 export default async function PrivacyPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   const privacyData = (await import(`../../../../locales/${locale}/privacy.json`)).default;
@@ -53,5 +55,5 @@ export default async function PrivacyPage({ params }: { params: Promise<{ locale
 }
 
 export async function generateStaticParams() {
-  return [{ locale: 'en' }, { locale: 'es' }];
+  return locales.map((locale) => ({ locale }));
 }

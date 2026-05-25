@@ -8,7 +8,7 @@
   "downloadNow": "Baixar na Play Store",
   "features": {
     "title": "Recursos",
-    "subtitle": "Tudo que você precisa para melhorar sua experiência de leitura",
+    "subtitle": "Tudo o que você precisa para melhorar sua experiência de leitura",
     "speechRecognition": {
       "title": "Reconhecimento de Voz em Tempo Real",
       "description": "Converta palavras faladas em texto instantaneamente com alta precisão"
@@ -50,20 +50,20 @@
   "altText": {
     "appLogo": "Logo do Cube Book",
     "heroImage": "Interface do Cube Book",
-    "phoneMockup": "Cube Book no smartphone"
+    "phoneMockup": "Cube Book em smartphone"
   },
   "meta": {
     "title": "Cube Book - Leia Mais Rápido com IA",
     "description": "Transforme sua experiência de leitura com Cube Book. Reconhecimento de voz com IA, construção de vocabulário e comparação entre idiomas."
   },
   "showcase": {
-    "title": "POR DENTRO DO CUBE BOOK",
+    "title": "DENTRO DO CUBE BOOK",
     "subtitle": "Aviso: Nossa interface é altamente viciante.",
-    "preview": "PRÉ-VISUALIZAÇÃO",
+    "preview": "VISÃO DO APP",
     "library": {
       "title": "SUA BIBLIOTECA, SEM LIMITES",
-      "description": "Organize todo o seu universo de leitura. Com nossa estante ultra-visual, acompanhar o que você lê, o que terminou e o que quer ler é tão satisfatório quanto passar uma página física.",
-      "badge": "UI LINDA"
+      "description": "Organize todo seu universo de leitura. Com nossa estante ultra-visual, acompanhar o que você lê, o que terminou e o que quer ler é tão satisfatório quanto passar uma página física.",
+      "badge": "INTERFACE LINDA"
     },
     "aiGuru": {
       "title": "SEU GURU PESSOAL DE IA",
@@ -71,13 +71,67 @@
       "badge": "IA INTELIGENTE"
     },
     "stats": {
-      "title": "EXIBA SUAS ESTATÍSTICAS",
-      "description": "Números que te orgulham. Acompanhe suas sequências, minutos diários e porcentagens concluídas em um painel lindo e sem rodeos.",
-      "badge": "NERD DOS DADOS"
+      "title": "MOSTRE SUAS ESTATÍSTICAS",
+      "description": "Números que te fazem sentir orgulhoso. Acompanhe suas sequências, minutos diários e porcentagens de conclusão em um painel absolutamente lindo e sem rodeios.",
+      "badge": "NERD DE DADOS"
     }
   },
   "hero": {
     "readFaster": "LEIA MAIS RÁPIDO.",
     "thinkDeeper": "ENTENDA MELHOR."
+  },
+  "screenshots": {
+    "pageTitle": "Gerador de Capturas",
+    "pageSubtitle": "Gere capturas da Play Store para Celular e Tablet",
+    "downloadAll": "Baixar Tudo",
+    "devicePhone": "Celular (9:16)",
+    "deviceTablet": "Tablet 7\" (9:16)",
+    "featureGraphic": "Gráfico de Funcionalidades",
+    "featureGraphicSize": "1024x500",
+    "downloadFeatureGraphic": "Baixar Gráfico de Funcionalidades",
+    "specs": "Especificações do Gráfico",
+    "specFormat": "Formato: PNG",
+    "specMaxSize": "Tamanho máximo: 15 MB",
+    "specDimensions": "Dimensões: 1024px por 500px",
+    "specAdapts": "O conteúdo se adapta ao idioma selecionado",
+    "screenshotsTitle": "Capturas",
+    "downloadPng": "Baixar PNG",
+    "phoneLabel": "Celular",
+    "tabletLabel": "Tablet",
+    "appTagline": "Sua biblioteca digital e leitor IA definitivo",
+    "appKeywords": ["Read", "Listen", "Analyze"],
+    "appKeywordsEs": ["Lê", "Escuta", "Analisa"],
+    "items": [
+      {
+        "title": "Organize sua biblioteca digital",
+        "subtitle": "Controle total da sua coleção com um estilo único.",
+        "action": "ORGANIZA"
+      },
+      {
+        "title": "Leitura sem distrações",
+        "subtitle": "Experiência imersiva projetada para o máximo foco.",
+        "action": "LÊ"
+      },
+      {
+        "title": "Ouça em qualquer lugar com IA",
+        "subtitle": "Transforme qualquer livro em audiolivro com vozes naturais.",
+        "action": "OUVE"
+      },
+      {
+        "title": "Domine seus hábitos de leitura",
+        "subtitle": "Estatísticas detalhadas para ajudá-lo a alcançar seus objetivos.",
+        "action": "ACOMPANHA"
+      },
+      {
+        "title": "Converse com seus livros",
+        "subtitle": "Faça perguntas, resuma capítulos e analise textos com IA poderosa.",
+        "action": "ANALISA"
+      },
+      {
+        "title": "Recomendações inteligentes",
+        "subtitle": "Descubra sua próxima aventura baseada em seu histórico e gostos únicos.",
+        "action": "DESCUBRA"
+      }
+    ]
   }
 }

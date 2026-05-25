@@ -4,26 +4,26 @@
   "tagline": "より速く読み、より深く理解",
   "subtitle": "コンテンツ消費のあり方を変える、AI搭載のパーソナル読書コンパニオン",
   "getStarted": "始める",
-  "learnMore": "詳細を見る",
+  "learnMore": "詳しく見る",
   "downloadNow": "Play Storeでダウンロード",
   "features": {
     "title": "機能",
-    "subtitle": "読書体験を向上させるために 필요한すべて",
+    "subtitle": "読書体験を向上させるために必要なすべて",
     "speechRecognition": {
       "title": "リアルタイム音声認識",
-      "description": "高精度で話し言葉を即座にテキストに変換"
+      "description": "高精度で话了された言葉を即座にテキストに変換"
     },
     "languageComparison": {
       "title": "言語間比較",
-      "description": "異なる言語のコンテンツを並べて比較"
+      "description": "異なる言語のコンテンツを並列比較"
     },
     "vocabularyBuilder": {
-      "title": "スマート語彙ビルダー",
-      "description": "スマートなリマインダーで語彙を構築し強化"
+      "title": "スマート単語帳",
+      "description": "インテリジェントなリマインダーで語彙を構築・強化"
     },
     "aiSummaries": {
-      "title": "AI要約",
-      "description": "数秒で任意のコンテンツの簡潔な要約を取得"
+      "title": "AIサマリー",
+      "description": "任意のコンテンツの簡潔な要約を数秒で取得"
     }
   },
   "navigation": {
@@ -35,49 +35,103 @@
     "language": "言語"
   },
   "footer": {
-    "rights": "All rights reserved",
+    "rights": "全著作権所有",
     "privacy": "プライバシーポリシー",
     "terms": "利用規約",
     "legal": "法的情報",
     "contact": "お問い合わせ",
-    "description": "最先端AI技術で読書体験を促進"
+    "description": "最先端のAI技術で読書体験向上"
   },
   "buttons": {
-    "readMore": "続きを読む",
+    "readMore": "詳細",
     "downloadFor": "ダウンロード",
-    "availableOn": "利用可能"
+    "availableOn": "入手可能"
   },
   "altText": {
-    "appLogo": "Cube Book ロゴ",
-    "heroImage": "Cube Book インターフェース",
-    "phoneMockup": "Cube Book on スマートフォン"
+    "appLogo": "Cube Bookロゴ",
+    "heroImage": "Cube Bookインターフェース",
+    "phoneMockup": "スマートフォン上のCube Book"
   },
   "meta": {
     "title": "Cube Book - AIでより速く読む",
     "description": "Cube Bookで読書体験を変える。AI音声認識、語彙構築、言語間比較。"
   },
   "showcase": {
-    "title": "CUBE BOOKの内部",
-    "subtitle": "注意：当社のインターフェースは中毒性があります。",
-    "preview": "プレビュー",
+    "title": "CUBE BOOKの内側",
+    "subtitle": "注意: 我们的インターフェースは夢中になるほど美しい。",
+    "preview": "アプリプレビュー",
     "library": {
-      "title": "あなたのライブラリ、解放",
-      "description": "読書ユニバース全体を整理。超ビジュアルな本棚で、読んだ本、終わった本、読みたい本を追跡することは、ページををめくることと同じくらい満足できます。",
+      "title": "あなたのライブラリ、縛りなし",
+      "description": "読書の世界全体を整理。我们的超視覚的な本棚で、何を読んでいるか、何を終わったか、何を読みたいかを追跡するのは、物理的なページをめくるのと同じくらい満足できます。",
       "badge": "美しいUI"
     },
     "aiGuru": {
       "title": "あなたのパーソナルAIグル",
-      "description": "読書ルーティンに縛られていませんか？当社のAIがあなたの読書履歴を分析し、あなたのスタイルに最適な本を提案します。プロット、キャラクター、深いテーマについての質問にも答えます。",
+      "description": "読書の rutina に縛られている？私たちのAIはあなたの読書履歴を分析し、あなたに最適な本を提案。プロット、キャラクター、深いテーマについても質問に答えます。",
       "badge": "スマートAI"
     },
     "stats": {
-      "title": "統計を見せよう",
-      "description": "誇りに感じる数字。読書ストリーク、日別分数、完了率をapersolutely Gorgeous、簡潔なダッシュボードで追跡。",
-      "badge": "データオタク"
+      "title": "統計を表示",
+      "description": "あなたが誇りに思う数字。読書ストリーク、日別分数、完了率を、素晴らしいダッシュボードで追跡。",
+      "badge": "データ愛好家"
     }
   },
   "hero": {
-    "readFaster": "より速く読め.",
-    "thinkDeeper": "より深く理解せよ."
+    "readFaster": "より速く読む。",
+    "thinkDeeper": "より深く理解する。"
+  },
+  "screenshots": {
+    "pageTitle": "スクリーンショット生成",
+    "pageSubtitle": "スマートフォンとタブレットのPlay Storeスクリーンショットを作成",
+    "downloadAll": "すべてダウンロード",
+    "devicePhone": "スマートフォン (9:16)",
+    "deviceTablet": "タブレット 7\" (9:16)",
+    "featureGraphic": "機能グラッフィク",
+    "featureGraphicSize": "1024x500",
+    "downloadFeatureGraphic": "機能グラッフィクをダウンロード",
+    "specs": "機能グラッフィク仕様",
+    "specFormat": "形式: PNG",
+    "specMaxSize": "最大サイズ: 15 MB",
+    "specDimensions": "サイズ: 1024px × 500px",
+    "specAdapts": "コンテンツは選択した言語に適応します",
+    "screenshotsTitle": "スクリーンショット",
+    "downloadPng": "PNGをダウンロード",
+    "phoneLabel": "スマートフォン",
+    "tabletLabel": "タブレット",
+    "appTagline": "究極のデジタルライブラリとAIリーター",
+    "appKeywords": ["Read", "Listen", "Analyze"],
+    "appKeywordsEs": ["読む", "聴く", "分析する"],
+    "items": [
+      {
+        "title": "デジタルライブラリを整理",
+        "subtitle": "ユニークなスタイルでコレクションを完全コントロール。",
+        "action": "整理"
+      },
+      {
+        "title": "集中して読書",
+        "subtitle": "お気に入りの物語に完全に没入できる没入型体験。",
+        "action": "読む"
+      },
+      {
+        "title": "AIでどこでも聴く",
+        "subtitle": "自然な音声で любую 本をオーディオブックに変換。",
+        "action": "聴く"
+      },
+      {
+        "title": "読書習慣をマスター",
+        "subtitle": "目標達成をサポートする詳細な洞察と高度な統計。",
+        "action": "追跡"
+      },
+      {
+        "title": "本とチャット",
+        "subtitle": "質問したり、章を要約したり、強力なAIでテキストを分析。",
+        "action": "分析"
+      },
+      {
+        "title": "スマート推奨",
+        "subtitle": "お客様の読書履歴と好みに基づいて次の冒険を発見。",
+        "action": "発見"
+      }
+    ]
   }
 }

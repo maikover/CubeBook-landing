@@ -11,11 +11,11 @@
     "subtitle": "提升阅读体验所需的一切",
     "speechRecognition": {
       "title": "实时语音识别",
-      "description": "高精度将口语即时转换为文字"
+      "description": "高精准度地将口语即时转换为文字"
     },
     "languageComparison": {
       "title": "跨语言比较",
-      "description": "并排比较不同语言的内容"
+      "description": "并排比较不同语言的內容"
     },
     "vocabularyBuilder": {
       "title": "智能词汇构建器",
@@ -23,7 +23,7 @@
     },
     "aiSummaries": {
       "title": "AI摘要",
-      "description": "几秒钟内获得任何内容的简洁摘要"
+      "description": "几秒钟内获取任何内容的简洁摘要"
     }
   },
   "navigation": {
@@ -39,18 +39,18 @@
     "privacy": "隐私政策",
     "terms": "使用条款",
     "legal": "法律信息",
-    "contact": "联系方式",
+    "contact": "联系我们",
     "description": "用尖端AI技术提升您的阅读体验"
   },
   "buttons": {
     "readMore": "阅读更多",
     "downloadFor": "下载",
-    "availableOn": "在以下平台可用"
+    "availableOn": "可在"
   },
   "altText": {
-    "appLogo": "Cube Book 标志",
-    "heroImage": "Cube Book 界面",
-    "phoneMockup": "Cube Book 在智能手机上"
+    "appLogo": "Cube Book标志",
+    "heroImage": "Cube Book界面",
+    "phoneMockup": "智能手机上的Cube Book"
   },
   "meta": {
     "title": "Cube Book - 用AI读得更快",
@@ -59,25 +59,79 @@
   "showcase": {
     "title": "CUBE BOOK 内部",
     "subtitle": "警告：我们的界面极易上瘾。",
-    "preview": "预览",
+    "preview": "应用预览",
     "library": {
-      "title": "你的图书馆，解放",
-      "description": "组织你的整个阅读宇宙。通过我们超视觉的书架，追踪你读过的、读完的、想读的书，就像翻动一页纸一样满足。",
-      "badge": "美丽的界面"
+      "title": "您的图书馆，无限可能",
+      "description": "整理您的整个阅读世界。通过我们超视觉的书架，跟踪您正在阅读、已读完和想读的内容，就像翻动纸质书页一样令人满足。",
+      "badge": "美丽UI"
     },
     "aiGuru": {
-      "title": "你的个人AI导师",
-      "description": "困在阅读 routine 里？我们的AI分析你的阅读历史，推荐完美匹配你风格的书籍。它还能回答关于情节、角色和深层主题的问题。",
+      "title": "您的个人AI导师",
+      "description": "陷入阅读 routine？我们的AI分析您的阅读历史并推荐完美匹配您风格的书籍。它还能回答关于情节、人物和深层主题的问题。",
       "badge": "智能AI"
     },
     "stats": {
-      "title": "展示你的统计数据",
-      "description": "让你骄傲的数字。在一个绝对华丽、毫不废话的仪表板上追踪你的阅读连续天数、每日分钟数和完成百分比。",
+      "title": "展示您的统计",
+      "description": "让您自豪的数字。在绝对美观的仪表板上跟踪您的阅读连续天数、每日分钟数和完成百分比。",
       "badge": "数据极客"
     }
   },
   "hero": {
-    "readFaster": "读得更快.",
-    "thinkDeeper": "理解更深."
+    "readFaster": "读得更快。",
+    "thinkDeeper": "理解更深。"
+  },
+  "screenshots": {
+    "pageTitle": "屏幕截图生成器",
+    "pageSubtitle": "为手机和平板电脑生成Play Store屏幕截图",
+    "downloadAll": "全部下载",
+    "devicePhone": "手机 (9:16)",
+    "deviceTablet": "平板电脑 7\" (9:16)",
+    "featureGraphic": "功能图",
+    "featureGraphicSize": "1024x500",
+    "downloadFeatureGraphic": "下载功能图",
+    "specs": "功能图规格",
+    "specFormat": "格式: PNG",
+    "specMaxSize": "最大大小: 15 MB",
+    "specDimensions": "尺寸: 1024px × 500px",
+    "specAdapts": "内容会根据所选语言进行调整",
+    "screenshotsTitle": "屏幕截图",
+    "downloadPng": "下载PNG",
+    "phoneLabel": "手机",
+    "tabletLabel": "平板电脑",
+    "appTagline": "您的终极数字图书馆和AI阅读器",
+    "appKeywords": ["Read", "Listen", "Analyze"],
+    "appKeywordsEs": ["阅读", "聆听", "分析"],
+    "items": [
+      {
+        "title": "整理您的数字图书馆",
+        "subtitle": "以独特的风格完全掌控您的收藏。",
+        "action": "整理"
+      },
+      {
+        "title": "无干扰阅读",
+        "subtitle": "为让您专注于喜爱故事而设计的沉浸式体验。",
+        "action": "阅读"
+      },
+      {
+        "title": "AI随时随地聆听",
+        "subtitle": "用自然语音将任何书籍转换为有声书。",
+        "action": "聆听"
+      },
+      {
+        "title": "掌握您的阅读习惯",
+        "subtitle": "详细的见解和高级统计，帮助您实现目标。",
+        "action": "追踪"
+      },
+      {
+        "title": "与您的书籍聊天",
+        "subtitle": "提问、总结章节，用我们强大的AI分析文本。",
+        "action": "分析"
+      },
+      {
+        "title": "智能推荐",
+        "subtitle": "根据您独特的阅读历史和品味发现您的下一个冒险。",
+        "action": "发现"
+      }
+    ]
   }
 }
