@@ -1,0 +1,131 @@
+{
+  "appName": "Easy String Art",
+  "appDescription": "Transforma tus fotos en hermosas creaciones de arte en hilo",
+  "tagline": "Transforma tus fotos en arte en hilo",
+  "subtitle": "Crea impresionantes trabajos en hilo desde cualquier imagen con solo unos toques",
+  "getStarted": "Comenzar",
+  "learnMore": "Saber Mas",
+  "downloadNow": "Descargar en Play Store",
+  "features": {
+    "title": "Funciones",
+    "subtitle": "Todo lo que necesitas para crear impresionantes obras en hilo",
+    "imageToArt": {
+      "title": "De Foto a Arte en Hilo",
+      "description": "Transforma cualquier foto en una obra maestra única con nuestro algoritmo potenciado por IA"
+    },
+    "customizable": {
+      "title": "Totalmente Personalizable",
+      "description": "Ajusta clavos, lineas, opacidad y colores para crear tu diseño perfecto"
+    },
+    "stepByStep": {
+      "title": "Guia Paso a Paso",
+      "description": "Sigue la guia de colocacion de clavos para recrear tu arte con hilo real"
+    },
+    "exportShare": {
+      "title": "Exportar y Compartir",
+      "description": "Descarga tu creacion como imagen o PDF, o compartela directamente con amigos"
+    }
+  },
+  "navigation": {
+    "home": "Inicio",
+    "features": "Funciones",
+    "download": "Descargar",
+    "privacy": "Politica de Privacidad",
+    "terms": "Terminos de Uso",
+    "language": "Idioma"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados",
+    "privacy": "Politica de Privacidad",
+    "terms": "Terminos de Uso",
+    "legal": "Legal",
+    "contact": "Contacto",
+    "description": "Creando arte en hilo desde tus fotos"
+  },
+  "buttons": {
+    "readMore": "Leer Mas",
+    "downloadFor": "Descargar para",
+    "availableOn": "Disponible en"
+  },
+  "altText": {
+    "appLogo": "Logo de Easy String Art",
+    "heroImage": "Interfaz de Easy String Art",
+    "phoneMockup": "Easy String Art en smartphone"
+  },
+  "meta": {
+    "title": "Easy String Art - Transforma Fotos en Arte en Hilo",
+    "description": "Transforma tus fotos en hermosas obras de arte en hilo. Ajusta clavos, lineas y colores para crear piezas unicas."
+  },
+  "showcase": {
+    "title": "DENTRO DE EASY STRING ART",
+    "subtitle": "Convierte cualquier foto en impresionantes obras en hilo.",
+    "preview": "VISTA PREVIA",
+    "homeScreen": {
+      "title": "CREA DESDE CUALQUIER IMAGEN",
+      "description": "Comienza tu viaje creativo importando cualquier foto. Nuestro algoritmo la transforma en un patron unico que puedes personalizar.",
+      "badge": "INICIO FACIL"
+    },
+    "customize": {
+      "title": "AJUSTADO A LA PERFECCION",
+      "description": "Configura cada detalle. Ajusta clavos, lineas, opacidad y color hasta que la vista previa se vea exactamente como quieres.",
+      "badge": "CONTROL TOTAL"
+    },
+    "result": {
+      "title": "TU ARTE, TU ESTILO",
+      "description": "Descarga como imagen de alta resolucion, exporta una guia PDF paso a paso, o compartela directamente. Luego recreala con hilo y clavos reales.",
+      "badge": "FINALIZALO"
+    }
+  },
+  "hero": {
+    "stringArt": "ARTE EN HILO.",
+    "fromPhotos": "DESDE FOTOS."
+  },
+  "screenshots": {
+    "pageTitle": "Generador de Capturas",
+    "pageSubtitle": "Genera Capturas de Play Store para Celular y Tablet",
+    "downloadAll": "Descargar Todo",
+    "devicePhone": "Celular (9:16)",
+    "deviceTablet": "Tablet 7\" (9:16)",
+    "featureGraphic": "Grafico de Funciones",
+    "featureGraphicSize": "1024x500",
+    "downloadFeatureGraphic": "Descargar Grafico de Funciones",
+    "specs": "Especificaciones del Grafico",
+    "specFormat": "Formato: PNG",
+    "specMaxSize": "Tamano Max: 15 MB",
+    "specDimensions": "Dimensiones: 1024px por 500px",
+    "specAdapts": "El contenido se adapta al idioma seleccionado",
+    "screenshotsTitle": "Capturas de Pantalla",
+    "downloadPng": "Descargar PNG",
+    "phoneLabel": "Celular",
+    "tabletLabel": "Tablet",
+    "appTagline": "Transforma Fotos en Increible Arte en Hilo",
+    "appKeywords": ["Arte en Hilo", "Arte Fotografico", "Manualidad DIY"],
+    "items": [
+      {
+        "title": "Comienza a Crear",
+        "subtitle": "Importa cualquier foto y mirala transformarse en arte en hilo.",
+        "action": "CREAR"
+      },
+      {
+        "title": "Guia de Clavos",
+        "subtitle": "Sigue las instrucciones paso a paso para colocar tus clavos.",
+        "action": "GUIA"
+      },
+      {
+        "title": "Animacion de Trenzado",
+        "subtitle": "Observa la animacion del tejido de hilo de tu creacion.",
+        "action": "ANIMAR"
+      },
+      {
+        "title": "Ajusta Tu Arte",
+        "subtitle": "Modifica clavos, lineas, opacidad y colores a la perfeccion.",
+        "action": "PERSONALIZAR"
+      },
+      {
+        "title": "Exporta y Comparte",
+        "subtitle": "Descarga como imagen, PDF o comparte directamente.",
+        "action": "EXPORTAR"
+      }
+    ]
+  }
+}

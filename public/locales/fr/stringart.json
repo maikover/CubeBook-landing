@@ -1,0 +1,49 @@
+{
+  "appName": "Easy String Art",
+  "screenshots": {
+    "pageTitle": "Captures d'Ecran String Art",
+    "pageSubtitle": "Generer et telecharger des visuels promotionnels pour Easy String Art",
+    "featureGraphic": "Graphic de Fonction",
+    "featureGraphicSize": "512x250",
+    "appTagline": "Transformez vos photos en superbes creations String Art",
+    "downloadFeatureGraphic": "Telecharger le Graphic",
+    "specs": "Specifications",
+    "specFormat": "Format: PNG",
+    "specMaxSize": "Taille max: 1024Ko",
+    "specDimensions": "Dimensions: 512x250 pixels",
+    "specAdapts": "S'adapte automatiquement a la langue",
+    "screenshotsTitle": "Captures d'Ecran",
+    "devicePhone": "Telephone",
+    "deviceTablet": "Tablette",
+    "downloadAll": "Tout Telecharger",
+    "downloadPng": "Telecharger PNG",
+    "appKeywords": ["String Art", "Photo Art", "DIY Craft"],
+    "items": [
+      {
+        "title": "Bibliotheque de Formes",
+        "subtitle": "Parcourez une large selection de formes geometriques et de modeles predefinis pour debuter votre creation",
+        "action": "Formes"
+      },
+      {
+        "title": "Creation Photo",
+        "subtitle": "Importez votre photo et laissez l'IA generer automatiquement votre chef-d'oeuvre String Art",
+        "action": "Creer"
+      },
+      {
+        "title": "Personnalisation Avancee",
+        "subtitle": "Ajustez la densite des fils, les couleurs et les effets pour un resultat unique et personnalise",
+        "action": "Personnaliser"
+      },
+      {
+        "title": "Galerie de Projets",
+        "subtitle": "Conservez tous vos chefs-d'oeuvre et partagez-les facilement avec vos proches",
+        "action": "Galerie"
+      },
+      {
+        "title": "Export Haute Qualite",
+        "subtitle": "Telechargez vos creations en haute resolution pour impression ou partage sur les reseaux sociaux",
+        "action": "Exporter"
+      }
+    ]
+  }
+}

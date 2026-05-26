@@ -1,0 +1,131 @@
+{
+  "appName": "Easy String Art",
+  "appDescription": "Trasforma le tue foto in bellissime creazioni di arte in filo",
+  "tagline": "Trasforma le tue foto in arte in filo",
+  "subtitle": "Crea straordinari lavori in filo da qualsiasi immagine con pochi tocchi",
+  "getStarted": "Inizia",
+  "learnMore": "Scopri di piu",
+  "downloadNow": "Scarica su Play Store",
+  "features": {
+    "title": "Funzionalita",
+    "subtitle": "Tutto cio che ti serve per creare straordinari lavori in filo",
+    "imageToArt": {
+      "title": "Da Foto a Arte in Filo",
+      "description": "Trasforma qualsiasi foto in un capolavoro unico con il nostro algoritmo alimentato da IA"
+    },
+    "customizable": {
+      "title": "Totalmente Personalizzabile",
+      "description": "Regola chiodi, linee, opacita e colori per creare il tuo design perfetto"
+    },
+    "stepByStep": {
+      "title": "Guida Passo Passo",
+      "description": "Segui la guida per il posizionamento dei chiodi per ricreare la tua arte con filo vero"
+    },
+    "exportShare": {
+      "title": "Esporta e Condividi",
+      "description": "Scarica la tua creazione come immagine o PDF, o condividila direttamente con gli amici"
+    }
+  },
+  "navigation": {
+    "home": "Home",
+    "features": "Funzionalita",
+    "download": "Scarica",
+    "privacy": "Informativa sulla Privacy",
+    "terms": "Termini di Utilizzo",
+    "language": "Lingua"
+  },
+  "footer": {
+    "rights": "Tutti i diritti riservati",
+    "privacy": "Informativa sulla Privacy",
+    "terms": "Termini di Utilizzo",
+    "legal": "Legale",
+    "contact": "Contatto",
+    "description": "Creando arte in filo dalle tue foto"
+  },
+  "buttons": {
+    "readMore": "Leggi di piu",
+    "downloadFor": "Scarica per",
+    "availableOn": "Disponibile su"
+  },
+  "altText": {
+    "appLogo": "Logo Easy String Art",
+    "heroImage": "Interfaccia Easy String Art",
+    "phoneMockup": "Easy String Art su smartphone"
+  },
+  "meta": {
+    "title": "Easy String Art - Trasforma Foto in Arte in Filo",
+    "description": "Trasforma le tue foto in bellissime creazioni di arte in filo. Regola chiodi, linee e colori per creare pezzi unici."
+  },
+  "showcase": {
+    "title": "DENTRO EASY STRING ART",
+    "subtitle": "Trasforma qualsiasi foto in straordinari lavori in filo.",
+    "preview": "ANTEPRIMA APP",
+    "homeScreen": {
+      "title": "CREA DA QUALSIASI IMMAGINE",
+      "description": "Inizia il tuo viaggio creativo importando qualsiasi foto. Il nostro algoritmo la trasforma in un modello unico che puoi personalizzare.",
+      "badge": "INIZIO FACILE"
+    },
+    "customize": {
+      "title": "CALIBRATO ALLA PERFEZIONE",
+      "description": "Regola ogni dettaglio. Modifica chiodi, linee, opacita e colore fino a quando l'anteprima non appare esattamente come vuoi.",
+      "badge": "CONTROLLO TOTALE"
+    },
+    "result": {
+      "title": "LA TUA ARTE, IL TUO STILE",
+      "description": "Scarica come immagine ad alta risoluzione, esporta una guida PDF passo passo, o condividila direttamente. Poi ricreala con filo e chiodi veri.",
+      "badge": "FINALIZZALO"
+    }
+  },
+  "hero": {
+    "stringArt": "ARTE IN FILO.",
+    "fromPhotos": "DA FOTO."
+  },
+  "screenshots": {
+    "pageTitle": "Generatore di Screenshot",
+    "pageSubtitle": "Genera Screenshot Play Store per Telefono e Tablet",
+    "downloadAll": "Scarica Tutto",
+    "devicePhone": "Telefono (9:16)",
+    "deviceTablet": "Tablet 7\" (9:16)",
+    "featureGraphic": "Grafico Funzionalita",
+    "featureGraphicSize": "1024x500",
+    "downloadFeatureGraphic": "Scarica Grafico Funzionalita",
+    "specs": "Specifiche Grafico Funzionalita",
+    "specFormat": "Formato: PNG",
+    "specMaxSize": "Dimensione max: 15 MB",
+    "specDimensions": "Dimensioni: 1024px per 500px",
+    "specAdapts": "Il contenuto si adatta alla lingua selezionata",
+    "screenshotsTitle": "Screenshot",
+    "downloadPng": "Scarica PNG",
+    "phoneLabel": "Telefono",
+    "tabletLabel": "Tablet",
+    "appTagline": "Trasforma Foto in Straordinaria Arte in Filo",
+    "appKeywords": ["Arte in Filo", "Arte Fotografico", "Manualita Fai da Te"],
+    "items": [
+      {
+        "title": "Inizia a Creare",
+        "subtitle": "Importa qualsiasi foto e guardala trasformarsi in arte in filo.",
+        "action": "CREA"
+      },
+      {
+        "title": "Guida ai Chiodi",
+        "subtitle": "Segui le istruzioni passo passo per posizionare i chiodi.",
+        "action": "GUIDA"
+      },
+      {
+        "title": "Animazione di Intreccio",
+        "subtitle": "Osserva l'animazione della tessitura del filo della tua creazione.",
+        "action": "ANIMA"
+      },
+      {
+        "title": "Regola la Tua Arte",
+        "subtitle": "Modifica chiodi, linee, opacita e colori alla perfezione.",
+        "action": "PERSONALIZZA"
+      },
+      {
+        "title": "Esporta e Condividi",
+        "subtitle": "Scarica come immagine, PDF o condividi direttamente.",
+        "action": "ESPORTA"
+      }
+    ]
+  }
+}

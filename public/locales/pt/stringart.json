@@ -1,0 +1,131 @@
+{
+  "appName": "Easy String Art",
+  "appDescription": "Transforme suas fotos em belas criações de arte com cordas",
+  "tagline": "Transforme suas fotos em bela arte com cordas",
+  "subtitle": "Crie impressionante arte com cordas a partir de qualquer imagem com apenas alguns toques",
+  "getStarted": "Começar",
+  "learnMore": "Saiba Mais",
+  "downloadNow": "Baixe na Play Store",
+  "features": {
+    "title": "Recursos",
+    "subtitle": "Tudo o que você precisa para criar arte com cordas impressionante",
+    "imageToArt": {
+      "title": "Foto para Arte com Cordas",
+      "description": "Transforme qualquer foto em uma obra-prima única de arte com cordas com nosso algoritmo alimentado por IA"
+    },
+    "customizable": {
+      "title": "Totalmente Personalizável",
+      "description": "Ajuste pinos, linhas, opacidade e cores para criar seu design perfeito"
+    },
+    "stepByStep": {
+      "title": "Guia Passo a Passo",
+      "description": "Siga o guia de posicionamento dos pinos para recriar sua arte com corda real"
+    },
+    "exportShare": {
+      "title": "Exportar e Compartilhar",
+      "description": "Baixe sua criação como imagem ou PDF, ou compartilhe diretamente com amigos"
+    }
+  },
+  "navigation": {
+    "home": "Início",
+    "features": "Recursos",
+    "download": "Baixar",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Uso",
+    "language": "Idioma"
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Uso",
+    "legal": "Legal",
+    "contact": "Contato",
+    "description": "Criando bela arte com cordas a partir das suas fotos"
+  },
+  "buttons": {
+    "readMore": "Leia Mais",
+    "downloadFor": "Baixar para",
+    "availableOn": "Disponível em"
+  },
+  "altText": {
+    "appLogo": "Logo do Easy String Art",
+    "heroImage": "Interface do app Easy String Art",
+    "phoneMockup": "Easy String Art no smartphone"
+  },
+  "meta": {
+    "title": "Easy String Art - Transforme Fotos em Arte com Cordas",
+    "description": "Transforme suas fotos em belas criações de arte com cordas. Ajuste pinos, linhas e cores para criar peças de arte únicas."
+  },
+  "showcase": {
+    "title": "POR DENTRO DO EASY STRING ART",
+    "subtitle": "Transforme qualquer foto em impressionante arte com cordas.",
+    "preview": "VISUALIZAÇÃO DO APP",
+    "homeScreen": {
+      "title": "CRIE A PARTIR DE QUALQUER IMAGEM",
+      "description": "Comece sua jornada criativa importando qualquer foto. Nosso algoritmo a transforma em um padrão único de arte com cordas que você pode personalizar.",
+      "badge": "INÍCIO FÁCIL"
+    },
+    "customize": {
+      "title": "AJUSTADO À PERFEIÇÃO",
+      "description": "Ajuste cada detalhe. Altere a quantidade de pinos, linhas de corda, opacidade e cor do fio até que sua visualização fique exatamente como você quer.",
+      "badge": "CONTROLE TOTAL"
+    },
+    "result": {
+      "title": "SUA ARTE, DO SEU JEITO",
+      "description": "Baixe como imagem de alta resolução, exporte um guia em PDF passo a passo, ou compartilhe diretamente. Depois recrie com corda e pinos reais.",
+      "badge": "FINALIZE"
+    }
+  },
+  "hero": {
+    "stringArt": "ARTE COM CORDAS.",
+    "fromPhotos": "A PARTIR DE FOTOS."
+  },
+  "screenshots": {
+    "pageTitle": "Gerador de Capturas de Tela",
+    "pageSubtitle": "Gere Capturas de Tela da Play Store para Telefone e Tablet",
+    "downloadAll": "Baixar Todas",
+    "devicePhone": "Telefone (9:16)",
+    "deviceTablet": "Tablet 7\" (9:16)",
+    "featureGraphic": "Gráfico de Destaque",
+    "featureGraphicSize": "1024x500",
+    "downloadFeatureGraphic": "Baixar Gráfico de Destaque",
+    "specs": "Especificações do Gráfico de Destaque",
+    "specFormat": "Formato: PNG",
+    "specMaxSize": "Tamanho Máximo: 15 MB",
+    "specDimensions": "Dimensões: 1024px por 500px",
+    "specAdapts": "O conteúdo se adapta ao idioma selecionado",
+    "screenshotsTitle": "Capturas de Tela",
+    "downloadPng": "Baixar PNG",
+    "phoneLabel": "Telefone",
+    "tabletLabel": "Tablet",
+    "appTagline": "Transforme Fotos em Impressionante Arte com Cordas",
+    "appKeywords": ["Arte com Cordas", "Arte Fotográfica", "Artesanato DIY"],
+    "items": [
+      {
+        "title": "Comece a Criar",
+        "subtitle": "Importe qualquer foto e assista ela se transformar em bela arte com cordas.",
+        "action": "CRIAR"
+      },
+      {
+        "title": "Guia de Posicionamento de Pinos",
+        "subtitle": "Siga instruções passo a passo para posicionar seus pinos corretamente.",
+        "action": "GUIA"
+      },
+      {
+        "title": "Animação de Trançado",
+        "subtitle": "Assista a animação de entrelaçamento da corda da sua criação.",
+        "action": "ANIMAR"
+      },
+      {
+        "title": "Ajuste Sua Arte",
+        "subtitle": "Ajuste pinos, linhas, opacidade e cores para a perfeição.",
+        "action": "PERSONALIZAR"
+      },
+      {
+        "title": "Exportar e Compartilhar",
+        "subtitle": "Baixe como imagem, PDF ou compartilhe diretamente com amigos.",
+        "action": "EXPORTAR"
+      }
+    ]
+  }
+}

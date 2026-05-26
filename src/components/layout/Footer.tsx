@@ -97,6 +97,16 @@ export default function Footer() {
                     {t('footer.terms')} ↗
                   </Link>
                 </li>
+                <li>
+                  <a
+                    href={`/${currentLocale}/sitemap.xml`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-block text-black font-black uppercase tracking-widest border-4 border-black bg-white px-4 py-2 shadow-neo-sm hover:bg-neo-accent hover:text-white hover:-translate-y-1 active:translate-x-1 active:translate-y-1 active:shadow-none transition-all duration-100 text-sm"
+                  >
+                    Sitemap ↗
+                  </a>
+                </li>
               </ul>
             </div>
             <div className="space-y-4">

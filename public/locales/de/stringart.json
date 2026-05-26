@@ -1,0 +1,131 @@
+{
+  "appName": "Einfach String Art",
+  "appDescription": "Verwandeln Sie Ihre Fotos in wunderschöne String-Art-Kreationen",
+  "tagline": "Verwandeln Sie Ihre Fotos in wunderschöne String Art",
+  "subtitle": "Erstellen Sie mit nur wenigen Taps atemberaubende String Art aus jedem Bild",
+  "getStarted": "Loslegen",
+  "learnMore": "Mehr erfahren",
+  "downloadNow": "Auf Play Store herunterladen",
+  "features": {
+    "title": "Funktionen",
+    "subtitle": "Alles, was Sie brauchen, um atemberaubende String Art zu erstellen",
+    "imageToArt": {
+      "title": "Foto zu String Art",
+      "description": "Verwandeln Sie jedes Foto in ein einzigartiges String-Art-Meisterwerk mit unserem KI-gestützten Algorithmus"
+    },
+    "customizable": {
+      "title": "Vollständig anpassbar",
+      "description": "Passen Sie Pins, Linien, Deckkraft und Farben an, um Ihr perfektes Design zu erstellen"
+    },
+    "stepByStep": {
+      "title": "Schritt-für-Schritt-Anleitung",
+      "description": "Befolgen Sie die Pin-Platzierungsanleitung, um Ihre Kunst mit echtem Garn neu zu erstellen"
+    },
+    "exportShare": {
+      "title": "Exportieren & Teilen",
+      "description": "Laden Sie Ihre Kreation als Bild oder PDF herunter oder teilen Sie sie direkt mit Freunden"
+    }
+  },
+  "navigation": {
+    "home": "Startseite",
+    "features": "Funktionen",
+    "download": "Herunterladen",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "language": "Sprache"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "legal": "Rechtliches",
+    "contact": "Kontakt",
+    "description": "Wunderschöne String Art aus Ihren Fotos erstellen"
+  },
+  "buttons": {
+    "readMore": "Mehr lesen",
+    "downloadFor": "Herunterladen für",
+    "availableOn": "Verfügbar auf"
+  },
+  "altText": {
+    "appLogo": "Einfach String Art Logo",
+    "heroImage": "Einfach String Art Oberfläche",
+    "phoneMockup": "Einfach String Art auf Smartphone"
+  },
+  "meta": {
+    "title": "Einfach String Art - Fotos in String Art verwandeln",
+    "description": "Verwandeln Sie Ihre Fotos in wunderschöne String-Art-Kreationen. Passen Sie Pins, Linien und Farben an, um einzigartige Kunstwerke zu erstellen."
+  },
+  "showcase": {
+    "title": "INNENANSICHT EINFACH STRING ART",
+    "subtitle": "Verwandeln Sie jedes Foto in atemberaubende String Art.",
+    "preview": "APP-VORSCHAU",
+    "homeScreen": {
+      "title": "AUS JEDEM BILD ERSTELLEN",
+      "description": "Beginnen Sie Ihre kreative Reise, indem Sie ein beliebiges Foto importieren. Unser Algorithmus verwandelt es in ein einzigartiges String-Art-Muster, das Sie anpassen können.",
+      "badge": "EINFACHER START"
+    },
+    "customize": {
+      "title": "PERFEKT ABGESTIMMT",
+      "description": "Pinzeln Sie jedes Detail ein. Passen Sie die Pin-Anzahl, Garnfäden, Deckkraft und Garnfarbe an, bis Ihre Vorschau genau richtig aussieht.",
+      "badge": "VOLLE KONTROLLE"
+    },
+    "result": {
+      "title": "IHRE KUNST, NACH IHREN VORSTELLUNGEN",
+      "description": "Laden Sie als hochauflösendes Bild herunter, exportieren Sie eine Schritt-für-Schritt-PDF-Anleitung oder teilen Sie direkt. Dann erstellen Sie es mit echtem Garn und Pins neu.",
+      "badge": "FERTIG DAMIT"
+    }
+  },
+  "hero": {
+    "stringArt": "STRING ART.",
+    "fromPhotos": "AUS FOTOS."
+  },
+  "screenshots": {
+    "pageTitle": "Screenshot-Generator",
+    "pageSubtitle": "Erstellen Sie Play Store Screenshots für Telefon und Tablet",
+    "downloadAll": "Alle herunterladen",
+    "devicePhone": "Telefon (9:16)",
+    "deviceTablet": "Tablet 7\" (9:16)",
+    "featureGraphic": "Feature-Grafik",
+    "featureGraphicSize": "1024x500",
+    "downloadFeatureGraphic": "Feature-Grafik herunterladen",
+    "specs": "Feature-Grafik Spezifikationen",
+    "specFormat": "Format: PNG",
+    "specMaxSize": "Max. Größe: 15 MB",
+    "specDimensions": "Abmessungen: 1024px mal 500px",
+    "specAdapts": "Inhalt passt sich der ausgewählten Sprache an",
+    "screenshotsTitle": "Screenshots",
+    "downloadPng": "PNG herunterladen",
+    "phoneLabel": "Telefon",
+    "tabletLabel": "Tablet",
+    "appTagline": "Verwandeln Sie Fotos in atemberaubende String Art",
+    "appKeywords": ["String Art", "Foto-Kunst", "DIY Handwerk"],
+    "items": [
+      {
+        "title": "Erstellen beginnen",
+        "subtitle": "Importieren Sie ein beliebiges Foto und sehen Sie zu, wie es sich in wunderschöne String Art verwandelt.",
+        "action": "ERSTELLEN"
+      },
+      {
+        "title": "Pin-Platzierungsanleitung",
+        "subtitle": "Befolgen Sie Schritt-für-Schritt-Anweisungen, um Ihre Pins korrekt zu platzieren.",
+        "action": "ANLEITUNG"
+      },
+      {
+        "title": "Flechtanimation",
+        "subtitle": "Sehen Sie die Garn-Webanimation Ihrer Kreation.",
+        "action": "ANIMIEREN"
+      },
+      {
+        "title": "Ihre Kunst verfeinern",
+        "subtitle": "Pins, Linien, Deckkraft und Farben bis zur Perfektion anpassen.",
+        "action": "ANPASSEN"
+      },
+      {
+        "title": "Exportieren & Teilen",
+        "subtitle": "Als Bild, PDF herunterladen oder direkt mit Freunden teilen.",
+        "action": "EXPORTIEREN"
+      }
+    ]
+  }
+}

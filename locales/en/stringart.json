@@ -1,0 +1,131 @@
+{
+  "appName": "Easy String Art",
+  "appDescription": "Transform your photos into beautiful string art creations",
+  "tagline": "Transform your photos into beautiful string art",
+  "subtitle": "Create stunning string art from any image with just a few taps",
+  "getStarted": "Get Started",
+  "learnMore": "Learn More",
+  "downloadNow": "Download on Play Store",
+  "features": {
+    "title": "Features",
+    "subtitle": "Everything you need to create stunning string art",
+    "imageToArt": {
+      "title": "Photo to String Art",
+      "description": "Transform any photo into a unique string art masterpiece with our AI-powered algorithm"
+    },
+    "customizable": {
+      "title": "Fully Customizable",
+      "description": "Adjust pins, lines, opacity and colors to create your perfect design"
+    },
+    "stepByStep": {
+      "title": "Step-by-Step Guide",
+      "description": "Follow the pin placement guide to recreate your art with real string"
+    },
+    "exportShare": {
+      "title": "Export & Share",
+      "description": "Download your creation as image or PDF, or share directly with friends"
+    }
+  },
+  "navigation": {
+    "home": "Home",
+    "features": "Features",
+    "download": "Download",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "language": "Language"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "legal": "Legal",
+    "contact": "Contact",
+    "description": "Creating beautiful string art from your photos"
+  },
+  "buttons": {
+    "readMore": "Read More",
+    "downloadFor": "Download for",
+    "availableOn": "Available on"
+  },
+  "altText": {
+    "appLogo": "Easy String Art logo",
+    "heroImage": "Easy String Art app interface",
+    "phoneMockup": "Easy String Art on smartphone"
+  },
+  "meta": {
+    "title": "Easy String Art - Transform Photos into String Art",
+    "description": "Transform your photos into beautiful string art creations. Adjust pins, lines, and colors to create unique art pieces."
+  },
+  "showcase": {
+    "title": "INSIDE EASY STRING ART",
+    "subtitle": "Turn any photo into stunning string art.",
+    "preview": "APP PREVIEW",
+    "homeScreen": {
+      "title": "CREATE FROM ANY IMAGE",
+      "description": "Start your creative journey by importing any photo. Our algorithm transforms it into a unique string art pattern you can customize.",
+      "badge": "EASY START"
+    },
+    "customize": {
+      "title": "TUNED TO PERFECTION",
+      "description": "Dial in every detail. Adjust pin count, string lines, opacity, and thread color until your preview looks exactly right.",
+      "badge": "FULL CONTROL"
+    },
+    "result": {
+      "title": "YOUR ART, YOUR WAY",
+      "description": "Download as high-res image, export a step-by-step PDF guide, or share directly. Then recreate it with real string and pins.",
+      "badge": "FINISH IT"
+    }
+  },
+  "hero": {
+    "stringArt": "STRING ART.",
+    "fromPhotos": "FROM PHOTOS."
+  },
+  "screenshots": {
+    "pageTitle": "Screenshot Generator",
+    "pageSubtitle": "Generate Play Store Screenshots for Phone & Tablet",
+    "downloadAll": "Download All",
+    "devicePhone": "Phone (9:16)",
+    "deviceTablet": "Tablet 7\" (9:16)",
+    "featureGraphic": "Feature Graphic",
+    "featureGraphicSize": "1024x500",
+    "downloadFeatureGraphic": "Download Feature Graphic",
+    "specs": "Feature Graphic Specs",
+    "specFormat": "Format: PNG",
+    "specMaxSize": "Max Size: 15 MB",
+    "specDimensions": "Dimensions: 1024px by 500px",
+    "specAdapts": "Content adapts to selected language",
+    "screenshotsTitle": "Screenshots",
+    "downloadPng": "Download PNG",
+    "phoneLabel": "Phone",
+    "tabletLabel": "Tablet",
+    "appTagline": "Transform Photos into Stunning String Art",
+    "appKeywords": ["String Art", "Photo Art", "DIY Craft"],
+    "items": [
+      {
+        "title": "Start Creating",
+        "subtitle": "Import any photo and watch it transform into beautiful string art.",
+        "action": "CREATE"
+      },
+      {
+        "title": "Pin Placement Guide",
+        "subtitle": "Follow step-by-step instructions to place your pins correctly.",
+        "action": "GUIDE"
+      },
+      {
+        "title": "Braiding Animation",
+        "subtitle": "Watch the string weaving animation of your creation.",
+        "action": "ANIMATE"
+      },
+      {
+        "title": "Fine-Tune Your Art",
+        "subtitle": "Adjust pins, lines, opacity and colors to perfection.",
+        "action": "CUSTOMIZE"
+      },
+      {
+        "title": "Export & Share",
+        "subtitle": "Download as image, PDF or share directly with friends.",
+        "action": "EXPORT"
+      }
+    ]
+  }
+}

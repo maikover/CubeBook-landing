@@ -1,0 +1,131 @@
+{
+  "appName": "이지 스트링아트",
+  "appDescription": "사진을 아름다운 스트링아트 작품으로 변환하세요",
+  "tagline": "사진을 아름다운 스트링아트로 변환하세요",
+  "subtitle": "몇 번의 탭만으로 어떤 이미지든 stunning한 스트링아트를 만들 수 있습니다",
+  "getStarted": "시작하기",
+  "learnMore": "자세히 보기",
+  "downloadNow": "Play 스토어에서 다운로드",
+  "features": {
+    "title": "기능",
+    "subtitle": "stunning한 스트링아트를 만드는 데 필요한 모든 것",
+    "imageToArt": {
+      "title": "사진에서 스트링아트까지",
+      "description": "AI 기술 알고리즘으로 모든 사진을 독특한 스트링아트 masterpiece로 변환하세요"
+    },
+    "customizable": {
+      "title": "완전한 커스터마이징",
+      "description": "핀, 선, 투명도, 색상을 조정하여 완벽한 디자인을 만드세요"
+    },
+    "stepByStep": {
+      "title": "단계별 가이드",
+      "description": "핀 배치 가이드를 따라 실제 string으로 예술을 재현하세요"
+    },
+    "exportShare": {
+      "title": "내보내기 및 공유",
+      "description": "이미지나 PDF로 다운로드하거나 친구와 바로 공유하세요"
+    }
+  },
+  "navigation": {
+    "home": "홈",
+    "features": "기능",
+    "download": "다운로드",
+    "privacy": "개인정보 보호정책",
+    "terms": "이용약관",
+    "language": "언어"
+  },
+  "footer": {
+    "rights": "모든 권리 보유",
+    "privacy": "개인정보 보호정책",
+    "terms": "이용약관",
+    "legal": "법적 정보",
+    "contact": "문의",
+    "description": "사진에서 아름다운 스트링아트 만들기"
+  },
+  "buttons": {
+    "readMore": "더 읽기",
+    "downloadFor": "다운로드",
+    "availableOn": "사용 가능"
+  },
+  "altText": {
+    "appLogo": "이지 스트링아트 로고",
+    "heroImage": "이지 스트링아트 앱 인터페이스",
+    "phoneMockup": "스마트폰의 이지 스트링아트"
+  },
+  "meta": {
+    "title": "이지 스트링아트 - 사진을 스트링아트로 변환",
+    "description": "사진을 아름다운 스트링아트 작품으로 변환하세요. 핀, 선, 색상을 조정하여 독특한 예술 작품을 만드세요."
+  },
+  "showcase": {
+    "title": "이지 스트링아트 내부",
+    "subtitle": "모든 사진을 stunning한 스트링아트로 변환하세요.",
+    "preview": "앱 미리보기",
+    "homeScreen": {
+      "title": "모든 이미지에서 만들기",
+      "description": "사진을 가져와서 알고리즘이 독특한 스트링아트 패턴으로 변환하는 것을 확인하세요. 커스터마이징 가능.",
+      "badge": "손쉬운 시작"
+    },
+    "customize": {
+      "title": "완벽하게 튜닝",
+      "description": "모든 디테일을 조정하세요. 핀 개수, string 선, 투명도, 스레드 색상을 원하는 대로 설정하세요.",
+      "badge": "완전한 제어"
+    },
+    "result": {
+      "title": "당신의 예술, 당신 방식",
+      "description": "고해상도 이미지로 다운로드, 단계별 PDF 가이드 내보내기, 또는 바로 공유. 실제 string과 핀으로 재현하세요.",
+      "badge": "완성하기"
+    }
+  },
+  "hero": {
+    "stringArt": "스트링아트.",
+    "fromPhotos": "사진에서."
+  },
+  "screenshots": {
+    "pageTitle": "스크린샷 생성기",
+    "pageSubtitle": "폰 및 태블릿용 Play 스토어 스크린샷 생성",
+    "downloadAll": "모두 다운로드",
+    "devicePhone": "폰 (9:16)",
+    "deviceTablet": "태블릿 7\" (9:16)",
+    "featureGraphic": "피처 그래픽",
+    "featureGraphicSize": "1024x500",
+    "downloadFeatureGraphic": "피처 그래픽 다운로드",
+    "specs": "피처 그래픽 사양",
+    "specFormat": "형식: PNG",
+    "specMaxSize": "최대 크기: 15 MB",
+    "specDimensions": "크기: 1024px x 500px",
+    "specAdapts": "콘텐츠가 선택한 언어에 맞게 조정됩니다",
+    "screenshotsTitle": "스크린샷",
+    "downloadPng": "PNG 다운로드",
+    "phoneLabel": "폰",
+    "tabletLabel": "태블릿",
+    "appTagline": "사진을 stunning한 스트링아트로 변환",
+    "appKeywords": ["스트링아트", "사진 아트", "DIY 공예"],
+    "items": [
+      {
+        "title": "创作 시작",
+        "subtitle": "사진을 가져와서 아름다운 스트링아트로 변환되는 과정을 확인하세요.",
+        "action": "만들기"
+      },
+      {
+        "title": "핀 배치 가이드",
+        "subtitle": "핀을 올바르게 배치하기 위한 단계별 지침을 따르세요.",
+        "action": "가이드"
+      },
+      {
+        "title": "땋기 애니메이션",
+        "subtitle": "창작물의 string weaving 애니메이션을 시청하세요.",
+        "action": "애니메이트"
+      },
+      {
+        "title": "예술 미세 조정",
+        "subtitle": "핀, 선, 투명도, 색상을 완벽하게 조정하세요.",
+        "action": "커스터마이즈"
+      },
+      {
+        "title": "내보내기 및 공유",
+        "subtitle": "이미지, PDF로 다운로드하거나 친구와 바로 공유하세요.",
+        "action": "내보내기"
+      }
+    ]
+  }
+}

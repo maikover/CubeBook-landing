@@ -1,0 +1,131 @@
+{
+  "appName": "简易弦艺",
+  "appDescription": "将您的照片转化为精美的弦艺作品",
+  "tagline": "将您的照片转化为精美的弦艺",
+  "subtitle": "只需几步即可从任意图片创建令人惊叹的弦艺作品",
+  "getStarted": "开始使用",
+  "learnMore": "了解更多",
+  "downloadNow": "在应用商店下载",
+  "features": {
+    "title": "功能特点",
+    "subtitle": "创作精美弦艺所需的一切",
+    "imageToArt": {
+      "title": "照片转弦艺",
+      "description": "使用我们的人工智能算法将任意照片转化为独特的弦艺杰作"
+    },
+    "customizable": {
+      "title": "完全可定制",
+      "description": "调整图钉数量、线条、透明度和颜色，打造您理想的设计"
+    },
+    "stepByStep": {
+      "title": "分步指南",
+      "description": "按照图钉放置指南，用真实的线材重现您的作品"
+    },
+    "exportShare": {
+      "title": "导出与分享",
+      "description": "将您的作品下载为图片或PDF，或直接与朋友分享"
+    }
+  },
+  "navigation": {
+    "home": "首页",
+    "features": "功能特点",
+    "download": "下载",
+    "privacy": "隐私政策",
+    "terms": "使用条款",
+    "language": "语言"
+  },
+  "footer": {
+    "rights": "版权所有",
+    "privacy": "隐私政策",
+    "terms": "使用条款",
+    "legal": "法律信息",
+    "contact": "联系我们",
+    "description": "从您的照片创作精美弦艺"
+  },
+  "buttons": {
+    "readMore": "阅读更多",
+    "downloadFor": "下载",
+    "availableOn": " Available on"
+  },
+  "altText": {
+    "appLogo": "简易弦艺标志",
+    "heroImage": "简易弦艺应用界面",
+    "phoneMockup": "智能手机上的简易弦艺"
+  },
+  "meta": {
+    "title": "简易弦艺 - 将照片转化为弦艺",
+    "description": "将您的照片转化为精美的弦艺作品。调整图钉、线条和颜色以创作独特的艺术作品。"
+  },
+  "showcase": {
+    "title": "简易弦艺之精彩内容",
+    "subtitle": "将任意照片转化为令人惊叹的弦艺。",
+    "preview": "应用预览",
+    "homeScreen": {
+      "title": "从任意图片创作",
+      "description": "通过导入任意照片开始您的创意之旅。我们的算法将其转化为可自定义的独特弦艺图案。",
+      "badge": "轻松开始"
+    },
+    "customize": {
+      "title": "完美调整",
+      "description": "微调每一个细节。调整图钉数量、弦线、透明度，直到预览效果完全符合您的预期。",
+      "badge": "完全掌控"
+    },
+    "result": {
+      "title": "您的艺术，您做主",
+      "description": "下载为高清图片，导出分步PDF指南，或直接分享。然后用真实的线和图钉重现您的作品。",
+      "badge": "完成创作"
+    }
+  },
+  "hero": {
+    "stringArt": "弦艺",
+    "fromPhotos": "源于照片"
+  },
+  "screenshots": {
+    "pageTitle": "截图生成器",
+    "pageSubtitle": "为手机和平板生成Play商店截图",
+    "downloadAll": "下载全部",
+    "devicePhone": "手机 (9:16)",
+    "deviceTablet": "平板7英寸 (9:16)",
+    "featureGraphic": "特色图形",
+    "featureGraphicSize": "1024x500",
+    "downloadFeatureGraphic": "下载特色图形",
+    "specs": "特色图形规格",
+    "specFormat": "格式: PNG",
+    "specMaxSize": "最大尺寸: 15 MB",
+    "specDimensions": "尺寸: 1024px x 500px",
+    "specAdapts": "内容会根据所选语言自适应",
+    "screenshotsTitle": "截图",
+    "downloadPng": "下载PNG",
+    "phoneLabel": "手机",
+    "tabletLabel": "平板",
+    "appTagline": "将照片转化为令人惊叹的弦艺",
+    "appKeywords": ["弦艺", "照片艺术", "自制手工艺"],
+    "items": [
+      {
+        "title": "开始创作",
+        "subtitle": "导入任意照片，见证它转化为精美的弦艺。",
+        "action": "创作"
+      },
+      {
+        "title": "图钉放置指南",
+        "subtitle": "按照分步说明正确放置图钉。",
+        "action": "指南"
+      },
+      {
+        "title": "编织动画",
+        "subtitle": "观看您的作品弦线编织动画。",
+        "action": "动画"
+      },
+      {
+        "title": "微调您的艺术作品",
+        "subtitle": "完美调整图钉、线条、透明度和颜色。",
+        "action": "自定义"
+      },
+      {
+        "title": "导出与分享",
+        "subtitle": "下载为图片、PDF或直接与朋友分享。",
+        "action": "导出"
+      }
+    ]
+  }
+}

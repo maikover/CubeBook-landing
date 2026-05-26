@@ -1,0 +1,49 @@
+{
+  "appName": "イージーストリングアート",
+  "screenshots": {
+    "pageTitle": "スクリーンショット",
+    "pageSubtitle": "アプリのスクリーンショットをダウンロード",
+    "devicePhone": "フォン",
+    "deviceTablet": "タブレット",
+    "downloadAll": "すべてダウンロード",
+    "featureGraphic": "フィーチャーグラフィック",
+    "featureGraphicSize": "512×250",
+    "appTagline": "わずか数分で美しい糸アートを作成",
+    "downloadFeatureGraphic": "フィーチャーグラフィックをダウンロード",
+    "specs": "仕様",
+    "specFormat": "形式: PNG",
+    "specMaxSize": "最大サイズ: 2MB",
+    "specDimensions": "サイズ: 512×250ピクセル",
+    "specAdapts": "向きを自動検出",
+    "screenshotsTitle": "スクリーンショット",
+    "downloadPng": "PNGをダウンロード",
+    "appKeywords": ["String Art", "Photo Art", "DIY Craft"],
+    "items": [
+      {
+        "title": "テンプレートを選択",
+        "subtitle": "素晴らしいテンプレートライブラリから選択",
+        "action": "新しい"
+      },
+      {
+        "title": "写真を追加",
+        "subtitle": "自分の写真をステップバイステップで変換",
+        "action": "追加"
+      },
+      {
+        "title": "アートを保存",
+        "subtitle": "ソーシャルメディアやデバイスに保存",
+        "action": "保存"
+      },
+      {
+        "title": "パターンをカスタマイズ",
+        "subtitle": "線の太さと色を変更してパーソナライズ",
+        "action": "カスタマイズ"
+      },
+      {
+        "title": "作品を共有",
+        "subtitle": "友達や家族と美しい糸アートを共有",
+        "action": "共有"
+      }
+    ]
+  }
+}
