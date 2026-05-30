@@ -262,7 +262,7 @@ export default function StringArtScreenshotClient({
                     </h2>
                   </div>
                   <div className="w-12 h-1.5 md:w-16 md:h-2 bg-coral border-2 border-black mb-2 md:mb-3"></div>
-                  <p className="font-bold text-sm md:text-base lg:text-lg leading-snug md:leading-tight mb-3 md:mb-4 text-black">
+                  <p className="font-bold text-xs md:text-sm lg:text-base leading-snug md:leading-tight mb-3 md:mb-4 text-black text-wrap balance">
                     {appTagline || 'Transform Photos into Stunning String Art'}
                   </p>
 
@@ -374,18 +374,18 @@ export default function StringArtScreenshotClient({
                   </div>
 
                   {/* Text Section */}
-                  <div className={`relative z-10 px-6 mb-6 w-full flex flex-col ${textAlignment}`}>
-                    <h2 className={`${device === 'phone' ? 'text-2xl' : 'text-3xl'} font-black uppercase leading-tight mb-4 text-black`} style={{ textShadow: '2px 2px 0 rgba(255,255,255,0.8), -2px -2px 0 rgba(255,255,255,0.8), 2px -2px 0 rgba(255,255,255,0.8), -2px 2px 0 rgba(255,255,255,0.8), 4px 4px 0 rgba(0,0,0,0.2)' }}>
+                  <div className={`relative z-10 px-6 w-full flex flex-col ${textAlignment}`}>
+                    <h2 className={`${device === 'phone' ? 'text-xl' : 'text-2xl'} font-black uppercase leading-tight mb-4 text-black text-wrap balance`} style={{ textShadow: '2px 2px 0 rgba(255,255,255,0.8), -2px -2px 0 rgba(255,255,255,0.8), 2px -2px 0 rgba(255,255,255,0.8), -2px 2px 0 rgba(255,255,255,0.8), 4px 4px 0 rgba(0,0,0,0.2)' }}>
                       {itemTitle}
                     </h2>
-                    <div className="w-16 h-2 bg-black mb-4 border-2 border-black"></div>
-                    <p className={`${device === 'phone' ? 'text-[15px]' : 'text-lg'} font-bold leading-snug px-2 text-black`}>
+                    <div className="w-16 h-2 bg-black mb-4 border-2 border-black mx-auto"></div>
+                    <p className={`${device === 'phone' ? 'text-sm' : 'text-base'} font-bold leading-snug px-2 text-black`}>
                       {itemSubtitle}
                     </p>
                   </div>
 
                   {/* Mockup Section */}
-                  <div className="relative flex-1 w-full flex items-start justify-center px-4 overflow-visible z-20">
+                  <div className="relative flex-1 w-full flex items-start justify-center px-4 overflow-visible z-20 mt-4">
                     <div className={`w-full max-w-[280px] transition-transform ${data.tilt} ${device === 'phone' ? 'translate-y-2 scale-100' : 'translate-y-4 scale-110'}`}>
                       {device === 'phone' ? (
                         <div className="relative mx-auto bg-black p-2 rounded-[2.5rem] border-4 border-black">
